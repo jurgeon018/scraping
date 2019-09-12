@@ -1,0 +1,1105 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <title>Поддержка пользователей</title>
+        <link rel="icon" href="http://support.prom.ua/static/favicon.ico?v=2">
+        <link href="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/main.css" media="all" rel="stylesheet" type="text/css">
+        <script type="text/javascript" async="" src="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/watch.js"></script><script type="text/javascript" async="" src="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/ga.js"></script><script type="text/javascript">
+            //!function(){var cache,diranme,expand,modules,partial,require;if(!this.require){modules={};cache={};partial=function(fn){var partial_args;partial_args=Array.prototype.slice.call(arguments);partial_args.shift();return function(){var a,arg,i,new_args,_i,_len,_ref;_ref=[[],0],new_args=_ref[0],arg=_ref[1];for(i=_i=0,_len=partial_args.length;_i<_len;i=++_i){a=partial_args[i];if(partial_args[i]===void 0){new_args.push(arguments[arg++])}else{new_args.push(partial_args[i])}}return fn.apply(this,new_args)}};require=function(name,root,ns){var e,fn,module,ns_module,ns_path,path,top_level_module;path=expand(root,name);ns_path=""+ns+"/"+expand("",name);top_level_module=modules[path]||modules[expand(path,"./index")];if(ns&&!top_level_module){path=ns_path}ns_module=modules[ns_path]||modules[expand(ns_path,"./index")];if(ns&&top_level_module&&ns_module){path=""+ns+"/"+expand("",name)}module=cache[path]||cache[expand(path,"./index")];if(module){return module.exports}else if(fn=modules[path]||modules[path=expand(path,"./index")]){module={id:path,exports:{}};try{cache[path]=module;fn(module.exports,module);return module.exports}catch(_error){e=_error;delete cache[path];throw e}}else{throw"module '"+name+"' is not found"}};require.modules=function(){return modules};expand=function(root,name){var i,part,parts,results,_i,_ref;results=[];if(/^\.\.?(\/|$)/.test(name)){parts=[root,name].join("/").split("/")}else{parts=name.split("/")}for(i=_i=0,_ref=parts.length-1;0<=_ref?_i<=_ref:_i>=_ref;i=0<=_ref?++_i:--_i){part=parts[i];if(part===".."){results.pop()}else if(part!=="."&&part!==""){results.push(part)}}return results.join("/")};diranme=function(path){return path.split("/").slice(0).join("/")};this.require=function(name){return require(name,"")};this.require.modules=function(name){return require.modules()};this.require.define=function(ns,bundle){var key,value,_key,_require;_require=partial(require,void 0,void 0,ns);_require.modules=require.modules;for(key in bundle){value=bundle[key];_key=ns?""+ns+"/"+key:key;modules[_key]=partial(value,void 0,_require,void 0);void 0}return void 0}}}.call(this);
+            window.AppState = {
+                _id: 1,
+                config: {"CS": {"is_debug": false, "CURRENT_ORIGIN": "support.prom.ua", "DEFAULT_ORIGIN": "https://my.prom.ua"}, "ENV": {"LOG": {"ns": "*", "enabled": "true", "cs_log_show_time": "logtime", "cs_log_show_hash": "showlog", "level": {"INFO": "*", "WARN": "*", "NOTICE": "*", "DEBUG": "*", "ERROR": "*"}}, "ROOT_NS": "window"}}
+            };
+        </script>
+    <script type="text/javascript" async="" src="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/embed.js"></script><link rel="prefetch" as="style" href="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/a_data_002/lounge.css"><link rel="prefetch" as="script" href="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/a_data_002/common.js"><link rel="prefetch" as="script" href="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/a_data_002/lounge.js"><link rel="prefetch" as="script" href="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/a_data_002/config.js"></head>
+    <body>
+        <a name="top">        </a>
+        <div class="b-user-support">
+            <div id="top_header_container" style="">
+                <div id="top_header" class="b-head-control-panel" data-url="/support_admin/get_portal_footer_header_html">
+    
+
+
+    
+
+    <div id="head_control_panel" class="b-fixed b-fixed_pos_top ">
+
+        <div class="b-head-control-panel b-head-control-panel_type_main">
+            <div class="b-page qa-user-bar-block" data-qaid="header-block">
+                
+                    
+    
+    <a target="_blank" href="http://zakupki.prom.ua/?source_id=prom_main&amp;utm_source=prom.ua&amp;utm_medium=link&amp;utm_content=main_page&amp;utm_campaign=all" class="b-head-control-panel__link b-head-control-panel__link_layout_only-icon js-popup-hint" data-body="&lt;a target='_blank' href='http://zakupki.prom.ua/?source_id=prom_main&amp;utm_source=prom.ua&amp;utm_medium=link&amp;utm_content=main_page&amp;utm_campaign=all'&gt;Государственные закупки&lt;/a&gt;">
+        <span class="b-head-control-panel__link-icon b-head-control-panel__link-icon_type_purchases"></span>
+    </a>
+
+
+                <div class="h-layout-right">
+                    <div id="auth_header_toolbar" class="b-head-control-panel__dynamic h-layout-left">
+                        
+    
+
+
+    
+    
+        
+        <div data-extend="TouchFriendlyDropdown " class="b-head-control-panel__drop-down_type_login b-head-control-panel__drop-down" id="ID-bc0c9326-ee90-438a-9597-4a5a2026a0fe">
+            
+    
+    <a href="https://my.prom.ua/cms/" class="b-head-control-panel__link b-head-control-panel__link_layout_with-icon  b-head-control-panel__link_state_active"><i class="b-head-control-panel__link-icon b-head-control-panel__icon-cabinet"></i><span class="b-head-control-panel__link-text">Кабинет</span>&nbsp;<i class="b-head-control-panel__drop-down-arrow"></i></a>
+
+            
+
+        <ul class="b-head-control-panel__drop-down-menu">
+        
+            <li class="b-head-control-panel__drop-down-item b-head-control-panel__drop-down-item_theme_white">
+            <span id="ID-bc0c9326-ee90-438a-9597-4a5a2026a0fe_1" class="b-head-control-panel__link b-head-control-panel__link_layout_with-icon b-head-control-panel__link_state_active js-popup-hint"><i class="b-head-control-panel__link-icon b-head-control-panel__icon-case"></i><span class="b-head-control-panel__link-text">Укр Шик</span></span>
+            </li>
+        
+            <li class="b-head-control-panel__drop-down-item b-head-control-panel__drop-down-item_size_slim b-head-control-panel__drop-down-item_theme_white">
+            <a href="https://my.prom.ua/cms/" class="b-head-control-panel__link b-head-control-panel__link_layout_with-icon js-popup-hint" id="ID-bc0c9326-ee90-438a-9597-4a5a2026a0fe_2"><span class="b-head-control-panel__link-text">Кабинет компании</span></a>
+            </li>
+        
+            <li class="b-head-control-panel__drop-down-item b-head-control-panel__drop-down-item_size_slim b-head-control-panel__drop-down-item_theme_white">
+            <a href="https://my.prom.ua/cabinet/user" class="b-head-control-panel__link b-head-control-panel__link_layout_with-icon js-popup-hint" id="ID-bc0c9326-ee90-438a-9597-4a5a2026a0fe_3"><span class="b-head-control-panel__link-text">Кабинет покупателя</span></a>
+            </li>
+        
+            <li class="b-head-control-panel__drop-down-item ">
+            <a href="https://my.prom.ua/cabinet/sign-out" class="b-head-control-panel__link b-head-control-panel__link_layout_with-icon js-popup-hint" id="logout_from_cabinet"><span class="b-head-control-panel__link-text">Выйти</span></a>
+            </li>
+        </ul>
+        </div>
+
+    
+    
+        
+            <a href="https://my.prom.ua/cabinet/contact_now" class="b-head-control-panel__link b-head-control-panel__link_layout_only-icon js-popup-hint" id="ID-71089278-330b-4cca-a99a-d5d76c1f20fd_1" data-body="Сообщения" data-css-class="b-popup_layout_small"><i class="b-head-control-panel__link-icon icon-panel_mail"></i></a>
+        
+            <a href="https://my.prom.ua/cabinet/order" class="b-head-control-panel__link b-head-control-panel__link_layout_only-icon js-popup-hint" id="ID-71089278-330b-4cca-a99a-d5d76c1f20fd_2" data-body="Заказы" data-css-class="b-popup_layout_small"><i class="b-head-control-panel__link-icon icon-panel_message"></i></a>
+
+
+
+                    </div>
+                </div>
+                <div class="h-layout-clear"></div>
+            </div>
+        </div>
+    </div>
+    <div class="h-height-40"></div>
+
+</div>
+                <div class="b-head-control-panel__placeholder">                </div>
+                <div class="b-layout__container b-portal-header_type_main h-layout-margin-bottom-15">
+                    
+    <div class="b-portal-header__logo">
+        <a href="https://my.prom.ua/">
+            <img class="trans main-site-logo logo-margin-UA" src="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/logo_main-trans.png">
+        </a>
+    </div>
+
+                    <div class="h-layout-clear">                    </div>
+                </div>
+            </div>
+            <div class="b-layout b-layout__container b-layout_sidebar_right">
+                <div class="b-layout__left-column">
+                    
+    
+    
+        
+    
+    
+    <div class="b-user-support__switcher-items h-layout-margin-bottom-10">
+        <a href="http://support.prom.ua/questions/" class="b-operation-button b-operation-button_pos_first b-operation-button_type_answers h-layout-left ">
+            <i class="icon-answers-to-questions h-vertical-middle h-layout-margin-right-5">            </i>
+            Для компаний
+        </a>
+        <a href="http://support.prom.ua/questions/label/6" class="b-operation-button b-operation-button_pos_first b-operation-button_type_answers h-layout-left ">
+            <i class="icon-answers-to-questions h-vertical-middle h-layout-margin-right-5">            </i>
+            Для покупателей
+        </a>
+        <a href="http://support.prom.ua/documents/" class="b-operation-button b-operation-button_pos_last b-operation-button_type_docs h-layout-left b-operation-button_stat_active">
+            <i class="icon-documentation h-vertical-middle h-layout-margin-right-5">            </i>
+            Справка
+        </a>
+        <div class="h-layout-clear">        </div>
+    </div>
+
+                    
+    <div class="b-user-support__search-field h-layout-margin-bottom-20">
+        <span id="b-ask" class="b-button-colored b-button-colored_theme_blue b-button-colored_icon_search h-layout-right">
+            <i class="icon-search h-vertical-middle h-layout-margin-right-10 h-layout-margin-left-10">            </i>
+        </span>
+        <div id="input_block" class="b-input b-input_type_responsive">
+            <input id="inputsearch" class="b-input__responsive" placeholder="Поиск по часто задаваемым вопросам" type="text" name="term">
+        </div>
+        <div class="h-layout-clear">        </div>
+        <div id="input_search_error" class="b-popup b-popup_mode_form-error h-hidden">
+            <span class="b-popup__tail b-popup__tail_orientation_north">            </span>
+            <span class="b-popup__body">
+                Введите ваш вопрос
+            </span>
+        </div>
+    </div>
+
+                    
+                        <div class="h-layout-margin-bottom-30 h-layout-margin-right-35 h-layout-margin-top-30">
+                            
+    <div class="b-breadcrumb">
+        <div class="page_path b-breadcrumb__bar cabinet-path" xmlns:v="http://rdf.data-vocabulary.org/#">
+            
+                
+    <div class="b-breadcrumb__item" typeof="v:Breadcrumb">
+        
+            <a href="http://support.prom.ua/" class="b-breadcrumb__link b-breadcrumb__link_type_home">
+                
+                    <span class="icon-mini_home b-breadcrumb__link-home-icon">                    </span>
+                
+                Поддержка пользователей
+            </a>
+            <i class="b-breadcrumb__arrow">
+                ›
+            </i>
+        
+    </div>
+
+            
+            
+                
+    <div class="b-breadcrumb__item" typeof="v:Breadcrumb">
+        
+            <a href="http://support.prom.ua/documents/" class="b-breadcrumb__link None">
+                
+                Документы
+            </a>
+            <i class="b-breadcrumb__arrow">
+                ›
+            </i>
+        
+    </div>
+
+            
+                
+    <div class="b-breadcrumb__item" typeof="v:Breadcrumb">
+        
+            <a href="http://support.prom.ua/documents/label/137" class="b-breadcrumb__link None">
+                
+                Импорт и экспорт товаров и услуг
+            </a>
+            <i class="b-breadcrumb__arrow">
+                ›
+            </i>
+        
+    </div>
+
+            
+            
+    <div class="b-breadcrumb__item" typeof="v:Breadcrumb">
+        
+            <span class="b-breadcrumb__current">
+                Импорт через Excel - формат файлов XLS(X) и CSV
+            </span>
+        
+    </div>
+
+        </div>
+    </div>
+
+                        </div>
+                    
+                    <div class="b-user-support__info-panel">
+                        
+    
+        <div class="b-user-support__user-content b-user-support__user-content_type_document">
+            <h1 class="big-header h-layout-margin-bottom-30">
+                Импорт через Excel - формат файлов XLS(X) и CSV
+            </h1>
+            <div class="h-layout-margin-bottom-30">
+                <p><span id="docs-internal-guid-b74e9c50-22d3-321a-b4be-8c42ab20edbd"></span></p>
+
+<p dir="ltr">Импорт товаров и услуг на сайт компании и на портал, а 
+также экспорт с сайта и с портала может быть выполнен в одном из 
+следующих форматов:</p>
+
+<ul dir="ltr">
+	<li>электронная таблица Excel, файл в формате XLS, XLSX или CSV (описание этого формата импорта/экспорта см. ниже);</li>
+	<li>файл YML.</li>
+</ul>
+
+<h2 dir="ltr">Как сделать успешный импорт?</h2>
+
+<p dir="ltr">Пошаговые рекомендации для корректного импорта:</p>
+
+<ul dir="ltr">
+	<li><a href="http://support.prom.ua/documents/840">Импорт позиций и</a><a href="http://support.prom.ua/documents/840" target="_blank">з файла</a></li>
+	<li><a href="http://support.prom.ua/documents/844">Импорт из XML (Price.ua)</a></li>
+</ul>
+
+<p><iframe allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/XrNoznQdJTg?rel=0" width="640" height="360" frameborder="0"></iframe></p>
+
+<h2 dir="ltr">Как выполнить экспорт?</h2>
+
+<p dir="ltr">О том, как экспортировать товары с сайта вашей компании см. документ <a href="http://support.prom.ua/documents/811">Экспорт товаров и групп товаров</a></p>
+
+<h2 dir="ltr">Описание формата импорта и экспорта XLS/XLSX и CSV</h2>
+
+<p dir="ltr"><strong>Внимание!</strong></p>
+
+<ul dir="ltr">
+	<li>Формат файла импорта совпадает с форматом файла экспорта, не зависит от расширения файла XLS, XLSX или CSV и описан ниже.</li>
+	<li>Файл импорта/экспорта в формате XLS, XLSX содержит две вкладки — 
+«Export Products Sheet» (описание самих товаров) и «Export Groups Sheet»
+ (описание структуры товарных групп).</li>
+	<li>Файл импорта/экспорта в формате CSV содержит только одну вкладку.</li>
+	<li>Для успешного импорта необходимо заполнить все обязательные поля в 
+файле импорта, а на вкладке «Export Groups Sheet» нужно указать 
+правильную структуру групп компании.</li>
+	<li>Первая строка таблицы в файле импорта всегда должна содержать 
+заголовки полей, указанные ниже (столбец «Название поля» в таблице).</li>
+	<li>Каждая строка файла импорта на вкладке «Export Products Sheet» содержит описание только одной товарной позиции или услуги.</li>
+	<li>В таблице должны быть заполнены все обязательные поля («Название_позиции», «Описание», «Идентификатор_товара»).</li>
+</ul>
+
+<h3 dir="ltr">Товары и услуги: вкладка «Export Products Sheet»</h3>
+
+<table style="width:100%" border="1">
+	<thead>
+		<tr>
+			<th scope="col">Название поля</th>
+			<th scope="col">Формат данных</th>
+			<th scope="col" style="width: 1200px;:">Описание значения</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Код_товара</td>
+			<td>строка до 25 символов</td>
+			<td style="width: 1200px;:">Код товара (артикул) необходим для 
+быстрого и удобного поиска нужной позиции на сайте компании и в личном 
+кабинете при телефонном обращении клиента. Длина артикула ― 25 символов 
+(цифры, кириллица, латиница, знаки «-», «_», «.», «/» и пробел).</td>
+		</tr>
+		<tr>
+			<td>Название_позиции</td>
+			<td>строка до 100 символов</td>
+			<td style="width: 1200px;:">Наименование товара или услуги.<br>
+			<strong>Обязательное поле.</strong></td>
+		</tr>
+		<tr>
+			<td>Поисковые_запросы</td>
+			<td>строка до 255 символов</td>
+			<td style="width: 1200px;:">
+			<p>Поисковые запросы используются для поиска в каталоге портала. Обязательное поле.<br>
+			Содержит поисковые запросы для позиции, перечисленные через запятую 
+(не более 255 символов). Длина каждого слова не больше 50 символов.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Описание</td>
+			<td>строка до 12160 символов</td>
+			<td style="width: 1200px;:">
+			<p>Описание данного товара или услуги.<br>
+			<strong>Обязательное поле.</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>Тип_товара</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Поле определяет принадлежность товара к 
+оптовым, розничным или услугам. Для правильного определения 
+рекомендуется задавать название категории и принадлежность товара.<br>
+			r ― товар продается только в розницу<br>
+			w ― товар продается только оптом<br>
+			u ― товар продается оптом и в розницу<br>
+			s ― услуга</td>
+		</tr>
+		<tr>
+			<td>Цена</td>
+			<td>число</td>
+			<td style="width: 1200px;:">Цена товара или услуги</td>
+		</tr>
+		<tr>
+			<td>Цена от</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">
+			<p>Поле определяет установлена ли для товара&nbsp;"цена от". Принимает одно из двух значений:</p>
+
+			<ul>
+				<li>+ — установлена&nbsp;"цена от";</li>
+				<li>- — не установлена&nbsp;"цена от".</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Валюта</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Валюта, денежная единица цены<br>
+			UAH | USD | EUR | CHF | RUB | GBP | JPY | PLZ | другая | BYN | KZT | MDL | р | руб | дол | $ | грн</td>
+		</tr>
+		<tr>
+			<td>Единица_измерения</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Единица измерения<br>
+			2г | 5г | 10 г | 50 г |&nbsp;100г | 10см&nbsp;|&nbsp;шт. | 10 шт. | 
+20 шт. | 50 шт. | 100 шт. | ампула | баллон | банка | блистер | бобина |
+ бочка | бут | бухта | ватт | ведро | выезд | г | га | гигакалория | год
+ | гр/кв.м | дал | два месяца | день | доза | ед. | кВт | канистра | 
+карат | кв.дм | кв.м | кв.см | кв.фут | квартал | кг | кг/кв.м | км | 
+комплект | коробка | куб.дм | куб.м | л | лист | м | мВт | месяц | мешок
+ | минута | мл | мм | моток | набор | неделя | номер | объект | 
+паллетоместо | пара | партия | пач | пог.м | полгода | посевная единица |
+ птицеместо | рейс | рулон | секция | слово | см | смена | сотка | 
+стакан | страница | сутки | т | т.у.шт. | т/км | таблетка | тираж | тыс.
+ шт. | тысяча | тюбик | упаковка | услуга | флакон | час | чел. | 
+шприц-туба | ярд | ящик</td>
+		</tr>
+		<tr>
+			<td>Минимальный_объем_заказа</td>
+			<td>число</td>
+			<td style="width: 1200px;:">Минимальный объем заказа</td>
+		</tr>
+		<tr>
+			<td>Оптовая_цена</td>
+			<td>число</td>
+			<td style="width: 1200px;:">Оптовые цены, разделённые символом "точка с запятой" ― ';'</td>
+		</tr>
+		<tr>
+			<td>Минимальный_заказ_опт</td>
+			<td>число</td>
+			<td style="width: 1200px;:">Минимальный объем заказа соответствующий оптовым ценам, также разделен ';'</td>
+		</tr>
+		<tr>
+			<td>Количество</td>
+			<td>число</td>
+			<td style="width: 1200px;:">Используется для указания остатка товаров на складе.</td>
+		</tr>
+		<tr>
+			<td>Ссылка_изображения</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Ссылка на изображение в интернете (URL). 
+Ссылок может быть несколько. Разделять необходимо запятыми с пробелом 
+(пример: http://example.com/box.gif, http://example.com/box-foto2.gif)<br>
+			Первое изображение из списка считается основным и будет отображаться в каталоге.</td>
+		</tr>
+		<tr>
+			<td>Наличие</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">
+			<p>Наличие товара на складе<br>
+			"+" — есть в наличии<br>
+			"!" — гарантия наличия (для сертифицированных компаний)<br>
+			"-" — нет в наличии<br>
+			"&amp;" — ожидается<br>
+			"@" — услуга<br>
+			цифра, например, "9" — кол-во дней на доставку, если товар под заказ<br>
+			<strong>Важно!</strong> При пустом поле статус вашего товара станет «Нет в наличии».</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Скидка</td>
+			<td>Положительное число или число с %</td>
+			<td style="width: 1200px;:">Если у товара есть скидка, в данном поле указывается величина скидки или процент. Пример: 12.5, 30%.</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Cрок действия скидки от</p>
+			</td>
+			<td>дата</td>
+			<td style="width: 1200px;:">Дата начала действия скидки.</td>
+		</tr>
+		<tr>
+			<td>Cрок действия скидки до</td>
+			<td>дата</td>
+			<td style="width: 1200px;:">Дата окончания действия скидки.</td>
+		</tr>
+		<tr>
+			<td>Ярлык</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Ярлык товара. Если в файле заполнена 
+колонка «Ярлык», то его значение будет всегда обновляться, даже если 
+настройка «Обновить принудительно» не выставлена.</td>
+		</tr>
+		<tr>
+			<td>Производитель</td>
+			<td>строка до 255 символов</td>
+			<td style="width: 1200px;:">
+			<p>Бренд, торговая марка или название предприятия-производителя, под 
+знаком которого изготовлен товар (возможно значение «Собственное 
+производство»). Название производителя импортируется в описание 
+характеристик товара, поле «Производитель».</p>
+
+			<p><strong>Внимание!</strong> Указываемый вами производитель будет 
+импортирован, если он есть в базе производителей портала. Проверить 
+наличие производителя или добавить нового производителя можно при 
+добавлении/редактировании товара.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Страна_производитель</td>
+			<td>строка до 255 символов</td>
+			<td style="width: 1200px;:">Импортируется в описание характеристик товара, поле «Страна производитель».</td>
+		</tr>
+		<tr>
+			<td>HTML_заголовок</td>
+			<td>строка до 250 символов</td>
+			<td style="width: 1200px;:">
+			<p>HTML-заголовок SEO-настроек товара</p>
+
+			<p>Группа SEO-настроек товара доступна, если включено приложение «SEO-настройки».&nbsp;<br>
+			При импорте значения&nbsp;SEO-настроек товара обновляются, только 
+если поля&nbsp;заполнены. Если при импорте поля пустые, то 
+значения&nbsp;SEO-настроек товара не обновляются.<br>
+			При экспорте эти поля выгружаются, только если указаны 
+пользовательские настройки. При настройках по умолчанию поля будут 
+пустыми.</p>
+
+			<p>Если все SEO-поля&nbsp;заданы и соответствуют требованиям, тогда 
+автоматически будет установлена настройка «Использовать свои настройки».
+ Если все поля не соответствуют требованиям или не заданы, 
+устанавливается настройка «Значения по умолчанию по шаблонам».</p>
+			</td>
+		</tr>
+		<tr>
+			<td>HTML_описание</td>
+			<td>строка до 250 символов</td>
+			<td style="width: 1200px;:">HTML-описание&nbsp;SEO-настроек товара</td>
+		</tr>
+		<tr>
+			<td>HTML_ключевые_слова</td>
+			<td>строка до 250 символов</td>
+			<td style="width: 1200px;:">HTML-ключевые слова&nbsp;SEO-настроек товара</td>
+		</tr>
+		<tr>
+			<td>Подарки</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Номера строк в текущем файле тех товаров,
+ которые являются подарками. Номера указываются через точку с запятой 
+(например, 3;4). Могут указываться не только для основного товара, но и 
+для разновидностей.<br>
+			<a href="http://img.support.uaprom.net/img/16d53d810c474144a51f707af593059fpodarki_1.png?PIMAGE_ID=undefined" target="_blank"><img alt="" src="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/16d53d810c474144a51f707af593059fpodarki_1.png" style="width: 350px; height: 109px;"></a></td>
+		</tr>
+		<tr>
+			<td>Сопутствующие</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Номера строк в текущем файле тех товаров,
+ которые являются сопутствующими. Номера указываются через точку с 
+запятой (например, 3;4).&nbsp;Могут указываться не только для основного 
+товара, но и для разновидностей.</td>
+		</tr>
+		<tr>
+			<td>Номер_группы</td>
+			<td>число</td>
+			<td style="width: 1200px;:">Позволяет помещать товар в конкретную группу у вас на сайте.</td>
+		</tr>
+		<tr>
+			<td>Название_группы</td>
+			<td>строка до 255 символов</td>
+			<td style="width: 1200px;:">Название группы товаров/услуг. Данное поле не импортируется при загрузке файла на сайт компании.</td>
+		</tr>
+		<tr>
+			<td>Адрес_подраздела</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Адрес подраздела каталога. Например, для 
+раздела «Ноутбуки»: http://prom.ua/Noutbuki. Для удобства вы можете 
+воспользоваться поиском или рубрикатором и выбрать конечный раздел 
+товара.</td>
+		</tr>
+		<tr>
+			<td>Возможность_поставки</td>
+			<td>число</td>
+			<td style="width: 1200px;:">Возможные объемы поставок</td>
+		</tr>
+		<tr>
+			<td>Срок_поставки</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Период измерения возможных объемов поставок<br>
+			день | неделя | месяц | квартал | год</td>
+		</tr>
+		<tr>
+			<td>Способ_упаковки</td>
+			<td>строка до 500 символов</td>
+			<td style="width: 1200px;:">Способ упаковки товара</td>
+		</tr>
+		<tr>
+			<td>Личные_заметки</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Личные заметки через запятую</td>
+		</tr>
+		<tr>
+			<td>Продукт_на_сайте</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Адрес продукта на сайте компании</td>
+		</tr>
+		<tr>
+			<td>Код_маркировки_(GTIN)</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Международный код маркировки и учёта логистических единиц (GTIN) для фида&nbsp;Google Merchant Center</td>
+		</tr>
+		<tr>
+			<td>Номер_устройства_(MPN)</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Уникальный (каталожный) номер устройства (MPN)&nbsp;для фида&nbsp;Google Merchant Center</td>
+		</tr>
+		<tr>
+			<td>Идентификатор_товара</td>
+			<td>строка до 255 символов</td>
+			<td style="width: 1200px;:">Идентификатор необходим для однозначного 
+сопоставления товара в файле импорта с этим-же товаром на сайте 
+компании. Может содержать символы и числа.<br>
+			<strong>Обязательное поле.</strong></td>
+		</tr>
+		<tr>
+			<td>Уникальный_идентификатор</td>
+			<td>Положительное число</td>
+			<td style="width: 1200px;:">Уникальный идентификатор товара ― 
+служебная информация, которая используется для идентификации товара или 
+услуги исключительно на нашем портале. Данный идентификатор заполняется 
+автоматически при экспорте и не должен изменяться вручную. Значение 
+уникального идентификатора ― число, которое можно найти в ссылке на 
+товар на портале или на сайте компании.</td>
+		</tr>
+		<tr>
+			<td>Идентификатор_подраздела</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Техническая информация об идентификаторе 
+подраздела. Не рекомендуется менять этот параметр никогда. Этот параметр
+ заполняется автоматически при экспорте данных из нашей системы.</td>
+		</tr>
+		<tr>
+			<td>Идентификатор_группы</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Техническая информация об идентификаторе 
+группы товаров в вашей системе. Указывает на категорию товара/услуги на 
+внешнем сайте вашей компании или в другой системе. Используется в 
+системе импорта из XML и YML файлов. Это поле будет использоваться при 
+выгрузке данных из каталога портала и импорте обратно в вашу систему.</td>
+		</tr>
+		<tr>
+			<td>ID_группы_разновидностей</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">Идентификатор разновидности товара. Все 
+товары с одним и тем же номером «ID_группы_разновидностей»&nbsp;и 
+заполненными полями «Название_Характеристики»&nbsp;и 
+«Значение_Характеристики» считаются разновидностями основного товара. 
+Основной товар при этом имеет тот же номер «ID_группы_разновидностей», 
+что и разновидности, но поля «Название_Характеристики»&nbsp;и 
+«Значение_Характеристики»&nbsp;у основного товара не заполнены.</td>
+		</tr>
+		<tr>
+			<td>Название_Характеристики</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">
+			<p>Название характеристики товара из категории, в которой размещается
+ товар, или название пользовательской характеристики. Скопировать точное
+ название характеристики категории можно из блока «Характеристики» на 
+странице добавления/ редактирования товара или перейдя в соответствующую
+ категорию на портале: <a href="http://static-cache.ua.uaprom.net/image/attribute_example.png?r=ff959cd55e2dcb964b3f795df9292a0d" target="_blank">смотреть пример</a>. Пример названия характеристики категории для товара из категории «<a href="http://prom.ua/Kresla-dlya-rukovoditelej" target="_blank">Кресла для руководителей</a>»:
+ Количество колесиков. Чтобы добавить несколько характеристик, 
+скопируйте этот столбец вместе со столбцами 
+«Измерение_Характеристики»&nbsp;и&nbsp;«Значение_Характеристики» 
+несколько раз. Порядок указания характеристик не имеет значения 
+(характеристики категории могут идти вперемешку с пользовательскими 
+характеристиками).</p>
+
+			<p><strong>Внимание!</strong> В файле импорта стоблцы описания каждой
+ отдельной характеристики должны всегда следовать в таком порядке: 
+«Название_Характеристики»,&nbsp;«Измерение_Характеристики»,&nbsp;«Значение_Характеристики».</p>
+
+			<p><strong>Примечание</strong>: Описанный в этой инструкции формат 
+импорта характеристик является третьей по счету версией. На портале 
+поддерживается обратная совместимость форматов импорта — характеристики,
+ описанные в файле импорта в одном из предыдущих форматов, будут успешно
+ импортированы. Однако экспорт характеристик всегда выполняется в новом,
+ описанном здесь формате. Рекомендуем вам всегда описывать 
+характеристики в файле импорта в соответствии с данными инструкциями.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Измерение_Характеристики</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">
+			<p>Единица измерения характеристики товара из категории, в которой 
+размещается товар, или единица измерения&nbsp;пользовательской 
+характеристики. Скопировать точное название единицы измерения 
+характеристики категории можно из блока «Характеристики» на странице 
+добавления/ редактирования товара или перейдя в соответствующую 
+категорию на портале. Для пользовательских характеристик рекомендуем 
+указывать стандартные единицы измерения: <a href="http://static-cache.ua.uaprom.net/image/attribute_example.png?r=ff959cd55e2dcb964b3f795df9292a0d" target="_blank">смотреть пример</a>. Пример названия единицы измерения для товара из категории «<a href="http://prom.ua/Kresla-dlya-rukovoditelej" target="_blank">Кресла для руководителей</a>»:
+ шт. Чтобы добавить несколько характеристик, скопируйте этот столбец 
+вместе со столбцами 
+«Название_Характеристики»&nbsp;и&nbsp;«Значение_Характеристики» 
+несколько раз. Порядок указания характеристик не имеет значения 
+(характеристики категории могут идти вперемешку с пользовательскими 
+характеристиками).</p>
+
+			<p><strong>Внимание!</strong>&nbsp;В файле импорта стоблцы описания 
+каждой отдельной характеристики должны всегда следовать в таком порядке:
+ 
+«Название_Характеристики»,&nbsp;«Измерение_Характеристики»,&nbsp;«Значение_Характеристики».
+ Даже если столбец «Измерение_Характеристики» не заполнен, он все равно 
+должен присутствовать в файле импорта во избежание ошибок.</p>
+
+			<p><strong>Примечание</strong>: Описанный в этой инструкции формат 
+импорта характеристик является третьей по счету версией. На портале 
+поддерживается обратная совместимость форматов импорта — характеристики,
+ описанные в файле импорта в одном из предыдущих форматов, будут успешно
+ импортированы. Однако экспорт характеристик всегда выполняется в новом,
+ описанном здесь формате. Рекомендуем вам всегда описывать 
+характеристики в файле импорта в соответствии с данными инструкциями.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Значение_Характеристики</td>
+			<td>строка</td>
+			<td style="width: 1200px;:">
+			<p>Значение характеристики категории товара или значение пользовательской характеристики: <a href="http://static-cache.ua.uaprom.net/image/attribute_example.png?r=ff959cd55e2dcb964b3f795df9292a0d" target="_blank">смотреть пример</a>.
+ Значение характеристик может быть простым или множнственным. Пример 
+множественного значения характеристики «Материал корпуса»: Алюминий, 
+Пластмасса; для характеристки «Стандарт связи»: GSM, CDMA, EDGE. 
+Значения множественных характеристик в файле импорта разделяются 
+символом «|». Пример: «Алюминий|Пластмасса» или «GSM|CDMA|EDGE» (кавычки
+ в файле импорта не нужны).&nbsp;Чтобы добавить несколько характеристик,
+ скопируйте этот столбец вместе со столбцами 
+«Название_Характеристики»&nbsp;и&nbsp;«Измерение_Характеристики» 
+несколько раз. Порядок указания характеристик не имеет значения 
+(характеристики категории могут идти вперемешку с пользовательскими 
+характеристиками).</p>
+
+			<p><strong>Внимание!</strong>&nbsp;В файле импорта стоблцы описания 
+каждой отдельной характеристики должны всегда следовать в таком порядке:
+ 
+«Название_Характеристики»,&nbsp;«Измерение_Характеристики»,&nbsp;«Значение_Характеристики».</p>
+
+			<p><strong>Примечание</strong>: Описанный в этой инструкции формат 
+импорта характеристик является третьей по счету версией. На портале 
+поддерживается обратная совместимость форматов импорта — характеристики,
+ описанные в файле импорта в одном из предыдущих форматов, будут успешно
+ импортированы. Однако экспорт характеристик всегда выполняется в новом,
+ описанном здесь формате. Рекомендуем вам всегда описывать 
+характеристики в файле импорта в соответствии с данными инструкциями.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div dir="ltr">
+<p><strong>Обратите внимание</strong>:&nbsp;блоков характеристик 
+(«Название_Характеристики», «Измерение_Характеристики»,&nbsp; 
+«Значение_Характеристики»)&nbsp; может быть несколько, под каждую 
+характеристику товара. Порядок блоков не важен. Рекомендуем размещать 
+блоки характеристик в последних столбцах файла.</p>
+
+<p><img alt="" src="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/756e8c620a494e15b8aa214d259f94e1harakteristiki.png" style="width: 738px; height: 162px;"></p>
+
+<h3><span style="line-height: 1.6em;">Группы: вкладка «Export Groups Sheet»</span></h3>
+
+<table border="1">
+	<thead>
+		<tr>
+			<th scope="col">Название поля</th>
+			<th scope="col">Формат данных</th>
+			<th scope="col">Описание значения</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Номер_группы</td>
+			<td>Число</td>
+			<td>Номер группы товаров/услуг на сайте компании. Номер группы можно найти в ссылке на группу:<br>
+			http://example.com/g123456-test_group</td>
+		</tr>
+		<tr>
+			<td>Название_группы</td>
+			<td>строка до 255 символов</td>
+			<td>Название группы товаров/услуг</td>
+		</tr>
+		<tr>
+			<td>Идентификатор_группы</td>
+			<td>Число</td>
+			<td>Внешний идентификатор группы товаров/услуг (например, номер группы товаров в 1С).</td>
+		</tr>
+		<tr>
+			<td>Номер_родителя</td>
+			<td>Число</td>
+			<td>Номер родительской группы, в которую входит данная группа 
+товаров/услуг. Если родительской для данной группы является корневая 
+группа, это поле должно быть пустым.</td>
+		</tr>
+		<tr>
+			<td>Идентификатор_родителя</td>
+			<td>Число</td>
+			<td>Внешний идентификатор родительской группы, в которую входит 
+данная группа товаров/услуг. Если родительской для данной группы 
+является корневая группа, это поле должно быть пустым.<br>
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td>HTML_заголовок_группы</td>
+			<td>строка до 250 символов</td>
+			<td>
+			<p>HTML-заголовок для SEO-настроек группы</p>
+
+			<p>Группа SEO-настроек группы доступна, если включено приложение «SEO-настройки».&nbsp;<br>
+			При импорте значения&nbsp;SEO-настроек группы обновляются, только 
+если поля&nbsp;заполнены. Если при импорте поля пустые, то 
+значения&nbsp;SEO-настроек группы не обновляются.<br>
+			При экспорте эти поля выгружаются, только если указаны 
+пользовательские настройки. При настройках по умолчанию поля будут 
+пустыми.</p>
+
+			<p>Если все SEO-поля&nbsp;заданы и соответствуют требованиям, тогда 
+автоматически будет установлена настройка «Использовать свои настройки».
+ Если все поля не соответствуют требованиям или не заданы, 
+устанавливается настройка «Значения по умолчанию по шаблонам».</p>
+			</td>
+		</tr>
+		<tr>
+			<td>HTML_описание_группы</td>
+			<td>строка до 250 символов</td>
+			<td>HTML-описание для SEO-настроек группы</td>
+		</tr>
+		<tr>
+			<td>HTML_ключевые_слова_группы</td>
+			<td>строка до 250 символов</td>
+			<td>HTML-ключевые слова для SEO-настроек группы</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+            </div>
+            <div class="h-layout-clear">            </div>
+        </div>
+        <div id="usefulness_tracker"><div class="b-usefull-article">
+    <span class="h-inline-block h-layout-margin-right-15 grey-color">Эта публикация была полезной для вас?</span>
+    <span class="b-usefull-article__button js_yes_button">Да</span>
+    <span class="b-usefull-article__button js_no_button">Нет</span>
+</div>
+</div>
+        
+    <div id="disqus_thread"><iframe id="dsq-app7404" name="dsq-app7404" allowtransparency="true" scrolling="no" tabindex="0" title="Disqus" sandbox="allow-forms allow-popups allow-same-origin allow-scripts" style="width: 1px !important; min-width: 100% !important; border: medium none !important; overflow: hidden !important; height: 0px !important; display: none !important; visibility: hidden !important; opacity: 0 !important;" src="//tempest.services.disqus.com/ads-iframe/google/?position=top&amp;shortname=supportuaprom&amp;experiment=network_default&amp;variant=fallthrough&amp;service=dynamic&amp;anchorColor=%231e8aab&amp;colorScheme=light&amp;sourceUrl=http%3A%2F%2Fsupport.prom.ua%2Fdocuments%2F841&amp;typeface=sans-serif&amp;disqus_version=afbe2e0" width="0" height="0" frameborder="0"></iframe><iframe id="dsq-app7401" name="dsq-app7401" allowtransparency="true" scrolling="no" tabindex="0" title="Disqus" style="width: 1px !important; min-width: 100% !important; border: medium none !important; overflow: hidden !important; height: 307px !important;" src="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/a_002.html" horizontalscrolling="no" verticalscrolling="no" width="100%" frameborder="0"></iframe></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'supportuaprom'; // required: replace example with your forum shortname
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+
+    
+
+                    </div>
+                </div>
+                <div class="b-layout__right-column">
+                    
+    
+    <div id="join-now-sidebar">    </div>
+
+
+                    
+                </div>
+                <div class="h-layout-clear">                </div>
+            </div>
+            <div id="footer" class="b-footer">
+    
+    
+    <div class="b-page">
+        <dl class="b-footer__column">
+            <dt class="b-footer__column-title">Для компаний</dt>
+                <dd class="b-footer__list-item">
+                    <a href="https://prom.ua/how_to_order">
+                        Тарифы
+                    </a>
+                </dd>
+            <dd class="b-footer__list-item">
+                <a href="https://prom.ua/terms-of-use">
+                    Пользовательское соглашение
+                </a>
+            </dd>
+            <dd class="b-footer__list-item">
+                <a href="https://prom.ua/privacy-policy">
+                    Политика конфиденциальности
+                </a>
+            </dd>
+                <dd class="b-footer__list-item">
+                    <a href="https://support.prom.ua/documents/label/63?utm_source=link2support_portal_rules&amp;utm_medium=Portal&amp;utm_campaign=footer">
+                        Правила пользования порталом
+                    </a>
+                </dd>
+            <dt class="b-footer__column-title h-mt-15">Для покупателей</dt>
+            <dd class="b-footer__list-item">
+                <a href="https://prom.ua/how_to_buy">
+                    Как покупать на Prom.ua
+                </a>
+            </dd>
+            <dd class="b-footer__list-item">
+                <a href="https://prom.ua/how_to_leave_review">
+                    Как оставить полезный отзыв
+                </a>
+            </dd>
+                    <dd class="b-footer__list-item">
+                        <a href="https://prom.ua/safe_shopping">
+                            Программа Защиты Покупателей
+                        </a>
+                    </dd>
+                    <dd class="b-footer__list-item">
+                        <a href="https://support.prom.ua/documents/207?utm_source=link2support_safe_shopping&amp;utm_medium=Portal&amp;utm_campaign=footer">
+                            Рекомендации по безопасным покупкам
+                        </a>
+                    </dd>
+        </dl>
+        <dl class="b-footer__column">
+            <dt class="b-footer__column-title">О нас</dt>
+            <dd class="b-footer__list-item">
+                <a href="https://prom.ua/about_us">
+                    О Prom.ua
+                </a>
+            </dd>
+                <dd class="b-footer__list-item">
+                    <a href="https://prom.ua/media">
+                        СМИ о нас
+                    </a>
+                </dd>
+                <dd class="b-footer__list-item">
+                    <a href="https://evo.company/category/vacancies">
+                        Работа в Prom.ua
+                    </a>
+                </dd>
+                <dd class="b-footer__list-item">
+                    <a href="https://my.prom.ua/cabinet/store/service/product_adv/dashboard" class="highlight">
+                        Реклама на Prom.ua
+                    </a>
+                </dd>
+                <dd class="b-footer__list-item">
+                    <a href="https://prom.ua/site_partners">
+                        Официальные дилеры Prom.ua
+                    </a>
+                </dd>
+                
+                <dd class="b-footer__list-item">
+                    Руководство для рекламодателей<br> AdWords:
+                    <a href="http://www.google.com.ua/adwords/thirdpartypartners/" target="_blank">
+                        работа с внешними партнерами
+                    </a>
+                </dd>
+            <dd class="b-footer__list-item">
+                <a href="https://support.prom.ua/questions?utm_source=link2support_company_questions&amp;utm_medium=Portal&amp;utm_campaign=footer">Справка и FAQ</a>
+            </dd>
+            <dd class="b-footer__list-item">
+                <a href="https://prom.ua/contact_us">
+                    Администрация
+                </a>
+            </dd>
+        </dl>
+        <dl class="b-footer__column">
+            <dt class="b-footer__column-title">Другие страны</dt>
+            
+    
+
+                <dd class="b-footer__list-item">
+                    <a href="https://prom.ua/">
+    <i class="icon-ua b-footer__country-flag"></i>
+Украина</a>
+                </dd>
+                <dd class="b-footer__list-item">
+                    <a href="https://deal.by/">
+    <i class="icon-by b-footer__country-flag"></i>
+Беларусь</a>
+                </dd>
+                <dd class="b-footer__list-item">
+                    <a href="https://satu.kz/">
+    <i class="icon-kz b-footer__country-flag"></i>
+Казахстан</a>
+                </dd>
+                <dd class="b-footer__list-item">
+                    <a href="https://prom.md/">
+    <i class="icon-md b-footer__country-flag"></i>
+Молдова</a>
+                </dd>
+
+        </dl>
+            <dl class="b-footer__column">
+            <dt class="b-footer__column-title">Наши партнеры</dt>
+                    <dd class="b-footer__list-item"><a href="https://evo.business/?utm_source=prom.ua&amp;utm_campaign=portal&amp;utm_medium=referral" target="_blank">EVO.business</a></dd>
+                    <dd class="b-footer__list-item"><a href="https://kabanchik.ua/" target="_blank">Kabanchik.ua</a></dd>
+                    <dd class="b-footer__list-item"><a href="https://vchasno.com.ua/?utm_source=prom&amp;utm_medium=footer" target="_blank">Вчасно</a></dd>
+                    <dd class="b-footer__list-item"><a href="https://crafta.ua/" target="_blank">Crafta.ua</a></dd>
+                    <dd class="b-footer__list-item"><a href="https://zakupki.prom.ua/?source_id=prom_footer&amp;utm_source=prom.ua&amp;utm_medium=link&amp;utm_content=footer&amp;utm_campaign=all" target="_blank">Zakupki.prom.ua</a></dd>
+                    <dd class="b-footer__list-item"><a href="https://shafa.ua/" target="_blank">Shafa</a></dd>
+                    <dd class="b-footer__list-item"><a href="https://bigl.ua/" target="_blank">Bigl.ua</a></dd>
+            </dl>
+        <dl class="b-footer__column b-footer__column_pos_last">
+            <dt class="b-footer__column-title">Также ищите нас в:</dt>
+                <dd class="b-footer__list-item">
+                <a href="http://www.youtube.com/prom4ua"><span class="icon-youtube b-footer__social-button"></span>YouTube</a>
+                </dd>
+                <dd class="b-footer__list-item">
+                <a href="http://twitter.com/prom_ua"><span class="icon-twitter b-footer__social-button"></span>Twitter</a>
+                </dd>
+                <dd class="b-footer__list-item">
+                <a href="http://vk.com/promua"><span class="icon-vkontakte b-footer__social-button"></span>Вконтакте</a>
+                </dd>
+                <dd class="b-footer__list-item">
+                <a href="http://www.facebook.com/prom.ua"><span class="icon-facebook b-footer__social-button"></span>Facebook</a>
+                </dd>
+                <dd class="b-footer__list-item">
+                <a href="https://plus.google.com/110575060719926246843/posts"><span class="icon-google b-footer__social-button"></span>Google+</a>
+                </dd>
+        </dl>
+    </div>
+    
+</div>
+            <div class="copyright">
+                
+                    
+    <!--LiveInternet counter--><script type="text/javascript"><!--
+    document.write("<a style='vertical-align:top;' rel='nofollow' href='http://www.liveinternet.ru/click;uaprom' "+
+    "target=_blank><img src='http://counter.yadro.ru/hit;uaprom?t14.2;r"+
+    escape(document.referrer)+((typeof(screen)=="undefined")?"":
+    ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+    ";"+Math.random()+
+    "' alt='' title='LiveInternet: показано число просмотров за 24"+
+    " часа, посетителей за 24 часа и за сегодня' "+
+    "border=0 width=88 height=31><\/a>")//--></script><a style="vertical-align:top;" rel="nofollow" href="http://www.liveinternet.ru/click;uaprom" target="_blank"><img src="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/hit.gif" alt="" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" width="88" height="31" border="0"></a><!--/LiveInternet-->
+
+                
+            </div>
+            
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-3947624-1']);
+        _gaq.push(['_setDomainName', 'prom.ua']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+            
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter183891 = new Ya.Metrika({id:183891,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript><div><img src="//mc.yandex.ru/watch/183891" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+            
+    <script src="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/core.js">    </script>
+
+            
+    <script>
+        (function App(AppState){
+            var JQuery = require('jquery')
+                , log = require('console-logger')
+                , info = log.info, debug = log.debug, warn = log.warn, error = log.error
+            jQuery(document).ready(function($) {
+            
+                
+                    (function (AppState) {
+    var sl = require('service-locator')
+        , whc = sl.locate('WormholeClient', AppState)
+        , wc = require('WormholeClient')
+        , cfg = require('config')
+    if (!whc) {
+        sl.provide({
+            name: 'WormholeClient',
+            instance: new wc.Client(cfg.get('CS.DEFAULT_ORIGIN', AppState)),
+            singleton: true
+        }, AppState);
+    }
+    var P = require('Popup');
+    var popup = new P();
+    var S = require('MainSuggest');
+    autocomplete = new S({
+        url: "/api/v1/text_search",
+        input_selector: "#inputsearch",
+        input_container: "#input_block",
+        template: "MainSuggest/views/support_autocomplete",
+        items_selector: ".js_item"
+    },
+    {
+        search_btn_s: "#b-ask",
+        search_url: "/search/",
+        search_form_url: "/ask_question/"
+    },
+    "#input_search_error"
+    );
+    function in_iframe () {
+        try {
+            return window.self !== window.top;
+        } catch (e) {
+            return true;
+        }
+    }
+    if (!in_iframe()) {
+        $("#top_header_container").show()
+        $("#footer").show()
+        $(".copyright").show()
+        var H = require('Header');
+        var top_header = new H("#top_header", "#footer", "/support_admin/get_portal_footer_header_html");
+    } else {
+        $("#top_header_container").hide()
+        $("#footer").hide()
+        $(".copyright").hide()
+    }
+}(window.AppState));
+                
+            
+                
+                    (function (AppState) {
+    info('Initializing Usefulness instance');
+    var sl = require('service-locator');
+    var X = require('Usefulness');
+    sl.provide({
+        name: 'Usefulness',
+        instance: new X("#usefulness_tracker", "http://support.prom.ua/documents/841"),
+        singleton: false // FIXME
+    }, AppState);
+}(AppState));
+                
+            
+            });
+        }(window.AppState));
+    </script>
+
+            
+    
+
+        </div>
+    
+<iframe src="%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_files/iframe.html" id="wormhole" style="display: none; width: 0px; height: 0px;"></iframe><div style="display: none;"><ul id="search_autocomplete" class="b-autocomplete search_autocomplete">
+    
+    <li class="b-autocomplete__item">
+        <a class="b-autocomplete__action-link js_item" data-ask_question="true">
+            Задать вопрос
+        </a>
+    </li>
+</ul>
+
+</div><iframe style="display: none;"></iframe></body></html>

@@ -1,0 +1,964 @@
+{
+    "categories": [
+        {
+            "id": 9001,
+            "name": "Розетки и выключатели",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/rozetki-vykliuchateli"
+        },
+        {
+            "id": 9002,
+            "name": "Лючки, выдвижные розетки в стол, пол",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/rozetki-v-pol"
+        },
+        {
+            "id": 9003,
+            "name": "Legrand - Etika",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/legrand-etika"
+        },
+        {
+            "id": 9004,
+            "name": "Hager - Lumina 2",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/hager-lumina-2"
+        },
+        {
+            "id": 9005,
+            "name": "Schneider Electric - Asfora",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/schneider-electric-asfora"
+        },
+        {
+            "id": 9006,
+            "name": "ABB - Basic 55",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/abb-basic-55"
+        },
+        {
+            "id": 9007,
+            "name": "Legrand - Valena Life / Allure",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/legrand-valena-life-allure"
+        },
+        {
+            "id": 9008,
+            "name": "Механизмы в сборе с накладками, клавишами",
+            "parent_id": 9007,
+            "url": "https://shop220.com.ua/categories/mekhanizmy-s-nakladkami-v-sbore"
+        },
+        {
+            "id": 9009,
+            "name": "Механизмы InMatic без накладок и клавиш",
+            "parent_id": 9007,
+            "url": "https://shop220.com.ua/categories/legrand-inmatic-mekhanizmy"
+        },
+        {
+            "id": 9010,
+            "name": "Клавиши и накладки Valena Allure",
+            "parent_id": 9007,
+            "url": "https://shop220.com.ua/categories/nakladki-valena-allure"
+        },
+        {
+            "id": 9011,
+            "name": "Клавиши и накладки Valena Life",
+            "parent_id": 9007,
+            "url": "https://shop220.com.ua/categories/nakladki-legrand-valena-life"
+        },
+        {
+            "id": 9012,
+            "name": "Рамки Valena Allure",
+            "parent_id": 9007,
+            "url": "https://shop220.com.ua/categories/ramki-legrand-valena-allure"
+        },
+        {
+            "id": 9013,
+            "name": "Рамки Valena Life",
+            "parent_id": 9007,
+            "url": "https://shop220.com.ua/categories/ramki-valena-life"
+        },
+        {
+            "id": 9014,
+            "name": "Коробки для накладного монтажа",
+            "parent_id": 9007,
+            "url": "https://shop220.com.ua/categories/korobki-dlia-nakladnogo-montazha-3"
+        },
+        {
+            "id": 9015,
+            "name": "Аксессуары",
+            "parent_id": 9007,
+            "url": "https://shop220.com.ua/categories/aksessuary-valena"
+        },
+        {
+            "id": 9016,
+            "name": "Legrand - Valena",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/legrand-valena"
+        },
+        {
+            "id": 9017,
+            "name": "Розетки для электроплит",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/rozetki-dlya-elektroplit"
+        },
+        {
+            "id": 9018,
+            "name": "Schneider Electric - Sedna",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/sedna-schneider-electric"
+        },
+        {
+            "id": 9019,
+            "name": "Schneider Electric - Unica",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/schneider-electric-unica-plus"
+        },
+        {
+            "id": 9020,
+            "name": "Универсальные механизмы",
+            "parent_id": 9019,
+            "url": "https://shop220.com.ua/categories/mekhanizmy-unica"
+        },
+        {
+            "id": 9021,
+            "name": "Суппорт к механизмам",
+            "parent_id": 9019,
+            "url": "https://shop220.com.ua/categories/support-k-mekhanizmam-unica"
+        },
+        {
+            "id": 9022,
+            "name": "Рамки Unica Basic",
+            "parent_id": 9019,
+            "url": "https://shop220.com.ua/categories/ramki-unica-basic"
+        },
+        {
+            "id": 9023,
+            "name": "Рамки Unica Plus",
+            "parent_id": 9019,
+            "url": "https://shop220.com.ua/categories/ramki-unica"
+        },
+        {
+            "id": 9024,
+            "name": "Рамки Unica Top",
+            "parent_id": 9019,
+            "url": "https://shop220.com.ua/categories/ramki-unica-top"
+        },
+        {
+            "id": 9025,
+            "name": "Рамки Unica Class",
+            "parent_id": 9019,
+            "url": "https://shop220.com.ua/categories/unica-class"
+        },
+        {
+            "id": 9026,
+            "name": "Рамки Unica Colors",
+            "parent_id": 9019,
+            "url": "https://shop220.com.ua/categories/unica-colors"
+        },
+        {
+            "id": 9027,
+            "name": "Коробки для накладного монтажа",
+            "parent_id": 9019,
+            "url": "https://shop220.com.ua/categories/korobki-dlia-montazha"
+        },
+        {
+            "id": 9028,
+            "name": "Jung - Eco profi",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/jung-eco-profi"
+        },
+        {
+            "id": 9029,
+            "name": "Накладные розетки Legrand Forix IP44",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/nakladnye-rozetki-legrand"
+        },
+        {
+            "id": 9030,
+            "name": "Влагозащищенные розетки IP55, IP66",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/vlagozashhishhennye-rozetki-legrand-plexo-ip55"
+        },
+        {
+            "id": 9031,
+            "name": "Legrand - Celiane",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/legrand-celiane"
+        },
+        {
+            "id": 9032,
+            "name": "механизмы",
+            "parent_id": 9031,
+            "url": "https://shop220.com.ua/categories/mekhanizmy-legrand-celiane"
+        },
+        {
+            "id": 9033,
+            "name": "суппорты и коробки",
+            "parent_id": 9031,
+            "url": "https://shop220.com.ua/categories/supporty-i-korobki"
+        },
+        {
+            "id": 9034,
+            "name": "лицевые панели",
+            "parent_id": 9031,
+            "url": "https://shop220.com.ua/categories/litsevye-paneli-legrand-celiane"
+        },
+        {
+            "id": 9035,
+            "name": "рамки и накладки IP44",
+            "parent_id": 9031,
+            "url": "https://shop220.com.ua/categories/ramki-i-nakladki-ip44"
+        },
+        {
+            "id": 9036,
+            "name": "рамки Классика",
+            "parent_id": 9031,
+            "url": "https://shop220.com.ua/categories/ramki-klassik"
+        },
+        {
+            "id": 9037,
+            "name": "рамки Металлик",
+            "parent_id": 9031,
+            "url": "https://shop220.com.ua/categories/ramki-metallik"
+        },
+        {
+            "id": 9038,
+            "name": "рамки Материалы",
+            "parent_id": 9031,
+            "url": "https://shop220.com.ua/categories/ramki-metall-celiane"
+        },
+        {
+            "id": 9039,
+            "name": "рамки Exclusive",
+            "parent_id": 9031,
+            "url": "https://shop220.com.ua/categories/ramki-ekskliuziv"
+        },
+        {
+            "id": 9040,
+            "name": "Polo - Fiorena",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/polo-fiorena"
+        },
+        {
+            "id": 9041,
+            "name": "Legrand - Mosaic",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/legrand-mosaic"
+        },
+        {
+            "id": 9042,
+            "name": "Удлинители, переходники, вилки",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/udliniteli"
+        },
+        {
+            "id": 9043,
+            "name": "Berker - R.1, R.3, R.Classic",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/berker-r1-r3"
+        },
+        {
+            "id": 9044,
+            "name": "Универсальные механизмы",
+            "parent_id": 9043,
+            "url": "https://shop220.com.ua/categories/mekhanizmy-berker"
+        },
+        {
+            "id": 9045,
+            "name": "Рамки R.1",
+            "parent_id": 9043,
+            "url": "https://shop220.com.ua/categories/ramki-r1"
+        },
+        {
+            "id": 9046,
+            "name": "Рамки R.3",
+            "parent_id": 9043,
+            "url": "https://shop220.com.ua/categories/ramki-r3"
+        },
+        {
+            "id": 9047,
+            "name": "Рамки R.Classic",
+            "parent_id": 9043,
+            "url": "https://shop220.com.ua/categories/ramki-r-classic"
+        },
+        {
+            "id": 9048,
+            "name": "Berker - 1930, Glas",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/berker-1930-glas-palazzo"
+        },
+        {
+            "id": 9049,
+            "name": "Berker - Q.1, Q.3, Q.7",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/berker-q1-q3"
+        },
+        {
+            "id": 9050,
+            "name": "Jung - A Creation",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/jung"
+        },
+        {
+            "id": 9051,
+            "name": "Merten - Antik",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/merten-antik"
+        },
+        {
+            "id": 9052,
+            "name": "Bticino - Living Light",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/bticino-living"
+        },
+        {
+            "id": 9053,
+            "name": "Legrand - Cariva",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/legrand-cariva"
+        },
+        {
+            "id": 9054,
+            "name": "Legrand - Galea Life",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/legrand-galea-life"
+        },
+        {
+            "id": 9055,
+            "name": "механизмы",
+            "parent_id": 9054,
+            "url": "https://shop220.com.ua/categories/mekhanizmy-galea-life"
+        },
+        {
+            "id": 9056,
+            "name": "накладки для механизмов",
+            "parent_id": 9054,
+            "url": "https://shop220.com.ua/categories/nakladki-dlya-mekhanizmov-legrand-galea-life"
+        },
+        {
+            "id": 9057,
+            "name": "рамки классика",
+            "parent_id": 9054,
+            "url": "https://shop220.com.ua/categories/ramki-galea-life-legrand"
+        },
+        {
+            "id": 9058,
+            "name": "рамки металл",
+            "parent_id": 9054,
+            "url": "https://shop220.com.ua/categories/ramki-metall-galea-life"
+        },
+        {
+            "id": 9059,
+            "name": "рамки дерево",
+            "parent_id": 9054,
+            "url": "https://shop220.com.ua/categories/ramki-derevo"
+        },
+        {
+            "id": 9060,
+            "name": "рамки камень",
+            "parent_id": 9054,
+            "url": "https://shop220.com.ua/categories/ramki-kamen"
+        },
+        {
+            "id": 9061,
+            "name": "рамки кожа",
+            "parent_id": 9054,
+            "url": "https://shop220.com.ua/categories/ramki-kozha"
+        },
+        {
+            "id": 9062,
+            "name": "коробки для накладного монтажа",
+            "parent_id": 9054,
+            "url": "https://shop220.com.ua/categories/korobki-dlya-nakladnogo-montazha"
+        },
+        {
+            "id": 9063,
+            "name": "GIRA - Standart 55, E2, E22",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/gira-standart-55-e2-e22"
+        },
+        {
+            "id": 9064,
+            "name": "Gira - Esprit",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/gira-esprit"
+        },
+        {
+            "id": 9065,
+            "name": "Gira - Event",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/gira-event"
+        },
+        {
+            "id": 9066,
+            "name": "Gira - ClassiX",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/gira-classix"
+        },
+        {
+            "id": 9067,
+            "name": "Fontini - Garby",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/fontini-garby"
+        },
+        {
+            "id": 9068,
+            "name": "Fontini - Garby Colonial",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/fontini-garby-colonial"
+        },
+        {
+            "id": 9069,
+            "name": "Fontini - F-37",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/fontini-f-37"
+        },
+        {
+            "id": 9070,
+            "name": "Fontini - Venezia",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/fontini-venezia"
+        },
+        {
+            "id": 9071,
+            "name": "Fontini - Barcelona",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/fontini-barcelona"
+        },
+        {
+            "id": 9072,
+            "name": "Bticino - Axolute",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/bticino-axolute"
+        },
+        {
+            "id": 9073,
+            "name": "Merten - M-Elegance",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/merten-m-elegance"
+        },
+        {
+            "id": 9074,
+            "name": "Jung - LS 990",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/jung-ls-990"
+        },
+        {
+            "id": 9075,
+            "name": "Розетки 45х45 Hager - Systo",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/hager-systo"
+        },
+        {
+            "id": 9076,
+            "name": "Влагостойкие розетки Hager - Hermetica IP44",
+            "parent_id": 9001,
+            "url": "https://shop220.com.ua/categories/vlagostoikie-rozetki-hager-hermetica-ip44"
+        },
+        {
+            "id": 9077,
+            "name": "Щиты электрические",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/schity-elektricheskie"
+        },
+        {
+            "id": 9078,
+            "name": "Щиты ABB, Schneider Electric, Legrand, Eaton, ИЭК",
+            "parent_id": 9077,
+            "url": "https://shop220.com.ua/categories/schity-schneider-legrand-eaton"
+        },
+        {
+            "id": 9079,
+            "name": "Hager - Volta",
+            "parent_id": 9077,
+            "url": "https://shop220.com.ua/categories/hager-volta"
+        },
+        {
+            "id": 9080,
+            "name": "Hager - Golf",
+            "parent_id": 9077,
+            "url": "https://shop220.com.ua/categories/hager-golf"
+        },
+        {
+            "id": 9081,
+            "name": "Hager - Cosmos",
+            "parent_id": 9077,
+            "url": "https://shop220.com.ua/categories/hager-cosmos"
+        },
+        {
+            "id": 9082,
+            "name": "Слаботочные щиты для мультимедиа",
+            "parent_id": 9077,
+            "url": "https://shop220.com.ua/categories/slabotochnye-schity-volta"
+        },
+        {
+            "id": 9083,
+            "name": "Влагозащищенные щиты IP65, IP66",
+            "parent_id": 9077,
+            "url": "https://shop220.com.ua/categories/vlagozashhishhennye-shhity-ip65"
+        },
+        {
+            "id": 9084,
+            "name": "Hager - Vega",
+            "parent_id": 9077,
+            "url": "https://shop220.com.ua/categories/hager-vega"
+        },
+        {
+            "id": 9085,
+            "name": "Hager - FW Univers IP44 (от 36 до 216 модулей)",
+            "parent_id": 9077,
+            "url": "https://shop220.com.ua/categories/hager-univers-ip44"
+        },
+        {
+            "id": 9086,
+            "name": "Металлические щиты",
+            "parent_id": 9077,
+            "url": "https://shop220.com.ua/categories/sabaj-metall"
+        },
+        {
+            "id": 9087,
+            "name": "Щиты для счетчика",
+            "parent_id": 9077,
+            "url": "https://shop220.com.ua/categories/schity-dlia-schetchika"
+        },
+        {
+            "id": 9088,
+            "name": "Ящики ЯРП, ЯПРП",
+            "parent_id": 9077,
+            "url": "https://shop220.com.ua/categories/iaschiki-iarp-iaprp"
+        },
+        {
+            "id": 9089,
+            "name": "Кросс-модули и комплектующие к щитам",
+            "parent_id": 9077,
+            "url": "https://shop220.com.ua/categories/komplektuiuschie-k-schitam"
+        },
+        {
+            "id": 9090,
+            "name": "Кабель, провод",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/cable-provod"
+        },
+        {
+            "id": 9091,
+            "name": "Прокладка кабеля, все для монтажа, инструмент",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/prokladka-kabelia-i-aksessuary"
+        },
+        {
+            "id": 9092,
+            "name": "Подрозетники, коробки",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/podrozetniki-korobki"
+        },
+        {
+            "id": 9093,
+            "name": "Гофротруба (гофра)",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/gofra-gofrotruba"
+        },
+        {
+            "id": 9094,
+            "name": "Металлорукав",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/metallorukav"
+        },
+        {
+            "id": 9095,
+            "name": "Шины соединительные (гребенки)",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/grebenki"
+        },
+        {
+            "id": 9096,
+            "name": "Клеммы Wago",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/klemmy-wago"
+        },
+        {
+            "id": 9097,
+            "name": "Клеммы на din-рейку, клеммные колодки",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/klemmniki-na-din-reiku"
+        },
+        {
+            "id": 9098,
+            "name": "Термоусадочная трубка",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/termousadochnaja-trubka"
+        },
+        {
+            "id": 9099,
+            "name": "Кабельные наконечники",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/kabelnye-nakonechniki"
+        },
+        {
+            "id": 9100,
+            "name": "Кабельные вводы PG (сальники)",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/kabelnye-vvody-pg"
+        },
+        {
+            "id": 9101,
+            "name": "Кабельные стяжки (хомуты), дюбеля",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/khomuty-styazhki"
+        },
+        {
+            "id": 9102,
+            "name": "Изолента",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/izolenta"
+        },
+        {
+            "id": 9103,
+            "name": "Арматура для СИП",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/armatura-dlia-sip"
+        },
+        {
+            "id": 9104,
+            "name": "Короб, кабель-канал",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/korob-dlp-legrand"
+        },
+        {
+            "id": 9105,
+            "name": "Труба ПВХ гладкая",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/truba-pvkh-gladkaya"
+        },
+        {
+            "id": 9106,
+            "name": "Электромонтажный инструмент",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/elektromontazhnyi-instrument"
+        },
+        {
+            "id": 9107,
+            "name": "Кабельные маркеры",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/kabelnye-markery"
+        },
+        {
+            "id": 9108,
+            "name": "Вилки и розетки силовые",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/vilki-i-rozetki-silovye"
+        },
+        {
+            "id": 9109,
+            "name": "Ленты сигнальные",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/lenty-signalnye"
+        },
+        {
+            "id": 9110,
+            "name": "Спиральные обвязки",
+            "parent_id": 9091,
+            "url": "https://shop220.com.ua/categories/spiralnye-obviazki"
+        },
+        {
+            "id": 9111,
+            "name": "Автоматические выключатели",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/avtomaticheskie-vykliuchateli"
+        },
+        {
+            "id": 9112,
+            "name": "Автоматические выключатели ABB",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/avtomaticheskie-vykliuchateli-abb"
+        },
+        {
+            "id": 9113,
+            "name": "Автоматические выключатели Eaton (Moeller)",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/avtomaticheskie-vykliuchateli-eaton-moeller"
+        },
+        {
+            "id": 9114,
+            "name": "Автоматические выключатели Hager",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/avtomaticheskie-vykliuchateli-hager"
+        },
+        {
+            "id": 9115,
+            "name": "Автоматические выключатели Legrand",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/avtomaticheskie-vykliuchateli-legrand"
+        },
+        {
+            "id": 9116,
+            "name": "Автоматические выключатели Schneider Electric",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/avtomaticheskie-vykliuchateli-schneider-acti-9"
+        },
+        {
+            "id": 9117,
+            "name": "Автоматические выключатели ETI",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/avtomaticheskie-vykliuchateli-eti"
+        },
+        {
+            "id": 9118,
+            "name": "Автоматические выключатели IEK (ИЭК)",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/avtomaticheskie-vykliuchateli-iek"
+        },
+        {
+            "id": 9119,
+            "name": "Автоматические выключатели E.NEXT",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/avtomaticheskie-vykliuchateli-enext"
+        },
+        {
+            "id": 9120,
+            "name": "Силовые автоматические выключатели до 1600А",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/silovye-avtomaticheskie-vykliuchateli"
+        },
+        {
+            "id": 9121,
+            "name": "Автоматы защиты двигателя",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/avtomaty-zaschity-dvigatelya-moeller"
+        },
+        {
+            "id": 9122,
+            "name": "Предохранители",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/predokhraniteli"
+        },
+        {
+            "id": 9123,
+            "name": "Аксессуары для модульных приборов",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/aksessuary-dlya-modulnykh-priborov"
+        },
+        {
+            "id": 9124,
+            "name": "Разрядники",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/razryadniki"
+        },
+        {
+            "id": 9125,
+            "name": "Однофазные автоматические выключатели",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/odnofaznye-avtomaticheskie-vykliuchateli"
+        },
+        {
+            "id": 9126,
+            "name": "Трехфазные автоматические выключатели",
+            "parent_id": 9111,
+            "url": "https://shop220.com.ua/categories/3-faznye-avtomaticheskie-vykliuchateli"
+        },
+        {
+            "id": 9127,
+            "name": "УЗО (дифреле)",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/uzo-difrele"
+        },
+        {
+            "id": 9128,
+            "name": "Дифавтоматы",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/difavtomat-differentsialnye-avtomaticheskie-vykliuchateli"
+        },
+        {
+            "id": 9129,
+            "name": "Оборудование управления и коммутации",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/oborudovanie-upravleniya-i-kommutatsii"
+        },
+        {
+            "id": 9130,
+            "name": "Реле Finder",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/rele-finder"
+        },
+        {
+            "id": 9131,
+            "name": "Рубильники перекидные",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/rubilniki-perekidnye-i-0-ii"
+        },
+        {
+            "id": 9132,
+            "name": "Контакторы",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/kontaktor"
+        },
+        {
+            "id": 9133,
+            "name": "Реле",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/rele"
+        },
+        {
+            "id": 9134,
+            "name": "Реле напряжения",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/rele-zubr"
+        },
+        {
+            "id": 9135,
+            "name": "Импульсные реле",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/impulsnye-rele-hager"
+        },
+        {
+            "id": 9136,
+            "name": "Таймеры, реле времени",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/rele-vremeni-taimery"
+        },
+        {
+            "id": 9137,
+            "name": "Индикаторы",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/indikatory"
+        },
+        {
+            "id": 9138,
+            "name": "Датчики движения и присутствия",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/datchiki-dvizheniya-prisutstviya"
+        },
+        {
+            "id": 9139,
+            "name": "Выключатели нагрузки, разъединители",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/vykliuchateli-nagruzki"
+        },
+        {
+            "id": 9140,
+            "name": "Кнопочные выключатели",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/knopochnye-vykliuchateli"
+        },
+        {
+            "id": 9141,
+            "name": "Сумеречные реле",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/sumerechnye-rele"
+        },
+        {
+            "id": 9142,
+            "name": "Трансформаторы на дин-рейку, блоки питания",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/transformatory-na-din-reiku"
+        },
+        {
+            "id": 9143,
+            "name": "Модульные диммеры на дин-рейку",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/modulnye-dimmery-na-din-reiku"
+        },
+        {
+            "id": 9144,
+            "name": "Розетки на дин-рейку",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/rozetki-na-din-reiku"
+        },
+        {
+            "id": 9145,
+            "name": "Термостаты",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/termostaty-na-din-reiku"
+        },
+        {
+            "id": 9146,
+            "name": "Преобразователи частоты",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/preobrazovateli-chastoty"
+        },
+        {
+            "id": 9147,
+            "name": "Звонки и зуммеры",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/zvonki-i-zummery"
+        },
+        {
+            "id": 9148,
+            "name": "Электро измерительные приборы",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/elektro-izmeritelnye-pribory"
+        },
+        {
+            "id": 9149,
+            "name": "Система дистанционного управления",
+            "parent_id": 9129,
+            "url": "https://shop220.com.ua/categories/sistema-distantsionnogo-upravleniia"
+        },
+        {
+            "id": 9150,
+            "name": "Теплый пол",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/teplyi-pol-ensto"
+        },
+        {
+            "id": 9151,
+            "name": "Конвекторы",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/konvektory-ensto"
+        },
+        {
+            "id": 9152,
+            "name": "Электрооборудование для дома",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/elektrooborudovanie"
+        },
+        {
+            "id": 9153,
+            "name": "Счетчики электроэнергии",
+            "parent_id": 9152,
+            "url": "https://shop220.com.ua/categories/schetchiki-elektroenergii"
+        },
+        {
+            "id": 9154,
+            "name": "Видеодомофоны, беспроводные звонки",
+            "parent_id": 9152,
+            "url": "https://shop220.com.ua/categories/besprovodnoy-zvonok-videodomofon-legrand"
+        },
+        {
+            "id": 9155,
+            "name": "Зарядки для электромобилей",
+            "parent_id": 9152,
+            "url": "https://shop220.com.ua/categories/zariadki-dlia-elektromobilei"
+        },
+        {
+            "id": 9156,
+            "name": "Беспроводные зарядки Qi для телефонов",
+            "parent_id": 9152,
+            "url": "https://shop220.com.ua/categories/besprovodnye-zariadki-qi-dlia-telefonov"
+        },
+        {
+            "id": 9157,
+            "name": "ИБП, инверторы, аккумуляторы",
+            "parent_id": 9152,
+            "url": "https://shop220.com.ua/categories/invertory-dlya-doma"
+        },
+        {
+            "id": 9158,
+            "name": "Антиобледенение, обогрев труб",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/antiobledenenie-obogrev-trub"
+        },
+        {
+            "id": 9159,
+            "name": "Лампы, светильники",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/svetilnik-dlya-sauny"
+        },
+        {
+            "id": 9160,
+            "name": "Заземление и молниезащита",
+            "parent_id": "",
+            "url": "https://shop220.com.ua/categories/zazemlenie-i-molniezaschita"
+        }
+    ]
+}
