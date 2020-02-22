@@ -1,0 +1,47 @@
+{
+    "pages_links": [
+        {
+            "url": "https://skadi.net.ua/product-category/muzhskaya-obuv/bercy/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product-category/muzhskaya-obuv/botinki/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product-category/muzhskaya-obuv/kedy/",
+            "category": "Кеды",
+            "id": 9003
+        },
+        {
+            "url": "https://skadi.net.ua/product-category/muzhskaya-obuv/krossovki/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product-category/zimnyaya-obuv/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product-category/kamuflyazhnye-kostyumy/zimnie-kostyumy/",
+            "category": "Зимние костюмы ",
+            "id": 9006
+        },
+        {
+            "url": "https://skadi.net.ua/product-category/kamuflyazhnye-kostyumy/demisezonnye-kostyumy/",
+            "category": "Демисезонные костюмы",
+            "id": 9007
+        },
+        {
+            "url": "https://skadi.net.ua/product-category/kamuflyazhnye-kostyumy/letnie-kostyumy/",
+            "category": "Летние костюмы",
+            "id": 9008
+        }
+    ]
+}
+
+
+            

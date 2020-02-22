@@ -1,0 +1,524 @@
+{
+    "pages_links": [
+        {
+            "url": "http://gvardeisky.com.ua/3-odezhda?p=1",
+            "category": "Одежда",
+            "id": 9001
+        },
+        {
+            "url": "http://gvardeisky.com.ua/3-odezhda?p=2",
+            "category": "Одежда",
+            "id": 9001
+        },
+        {
+            "url": "http://gvardeisky.com.ua/3-odezhda?p=3",
+            "category": "Одежда",
+            "id": 9001
+        },
+        {
+            "url": "http://gvardeisky.com.ua/3-odezhda?p=4",
+            "category": "Одежда",
+            "id": 9001
+        },
+        {
+            "url": "http://gvardeisky.com.ua/3-odezhda?p=5",
+            "category": "Одежда",
+            "id": 9001
+        },
+        {
+            "url": "http://gvardeisky.com.ua/3-odezhda?p=6",
+            "category": "Одежда",
+            "id": 9001
+        },
+        {
+            "url": "http://gvardeisky.com.ua/3-odezhda?p=7",
+            "category": "Одежда",
+            "id": 9001
+        },
+        {
+            "url": "http://gvardeisky.com.ua/3-odezhda?p=8",
+            "category": "Одежда",
+            "id": 9001
+        },
+        {
+            "url": "http://gvardeisky.com.ua/3-odezhda?p=9",
+            "category": "Одежда",
+            "id": 9001
+        },
+        {
+            "url": "http://gvardeisky.com.ua/3-odezhda?p=10",
+            "category": "Одежда",
+            "id": 9001
+        },
+        {
+            "url": "http://gvardeisky.com.ua/3-odezhda?p=11",
+            "category": "Одежда",
+            "id": 9001
+        },
+        {
+            "url": "http://gvardeisky.com.ua/4-kostyumy?p=1",
+            "category": "Костюмы",
+            "id": 9002
+        },
+        {
+            "url": "http://gvardeisky.com.ua/8-rubashki?p=1",
+            "category": "Рубашки",
+            "id": 9003
+        },
+        {
+            "url": "http://gvardeisky.com.ua/70-kombinezony?p=1",
+            "category": "Комбинезоны",
+            "id": 9004
+        },
+        {
+            "url": "http://gvardeisky.com.ua/22-kurtki?p=1",
+            "category": "Куртки",
+            "id": 9005
+        },
+        {
+            "url": "http://gvardeisky.com.ua/21-bryuki-polukombenizony?p=1",
+            "category": "Брюки/ Полукомбенизоны",
+            "id": 9006
+        },
+        {
+            "url": "http://gvardeisky.com.ua/23-bushlaty?p=1",
+            "category": "Бушлаты",
+            "id": 9007
+        },
+        {
+            "url": "http://gvardeisky.com.ua/24-sviterapodstezhki?p=1",
+            "category": "Свитера/Подстежки",
+            "id": 9008
+        },
+        {
+            "url": "http://gvardeisky.com.ua/25-zhilety?p=1",
+            "category": "Жилеты",
+            "id": 9009
+        },
+        {
+            "url": "http://gvardeisky.com.ua/38-yubki?p=1",
+            "category": "Юбки",
+            "id": 9010
+        },
+        {
+            "url": "http://gvardeisky.com.ua/39-kiteli?p=1",
+            "category": "Кители",
+            "id": 9011
+        },
+        {
+            "url": "http://gvardeisky.com.ua/40-dozhdevye-komplekty?p=1",
+            "category": "Дождевые комплекты",
+            "id": 9012
+        },
+        {
+            "url": "http://gvardeisky.com.ua/72-poncho?p=1",
+            "category": "Пончо",
+            "id": 9013
+        },
+        {
+            "url": "http://gvardeisky.com.ua/41-galstuki?p=1",
+            "category": "Галстуки",
+            "id": 9014
+        },
+        {
+            "url": "http://gvardeisky.com.ua/63-perchatki?p=1",
+            "category": "Перчатки",
+            "id": 9015
+        },
+        {
+            "url": "http://gvardeisky.com.ua/66-maskirovka?p=1",
+            "category": "Маскировка",
+            "id": 9016
+        },
+        {
+            "url": "http://gvardeisky.com.ua/66-maskirovka?p=2",
+            "category": "Маскировка",
+            "id": 9016
+        },
+        {
+            "url": "http://gvardeisky.com.ua/15-golovnye-ubory?p=1",
+            "category": "Головные уборы",
+            "id": 9017
+        },
+        {
+            "url": "http://gvardeisky.com.ua/15-golovnye-ubory?p=2",
+            "category": "Головные уборы",
+            "id": 9017
+        },
+        {
+            "url": "http://gvardeisky.com.ua/15-golovnye-ubory?p=3",
+            "category": "Головные уборы",
+            "id": 9017
+        },
+        {
+            "url": "http://gvardeisky.com.ua/15-golovnye-ubory?p=4",
+            "category": "Головные уборы",
+            "id": 9017
+        },
+        {
+            "url": "http://gvardeisky.com.ua/15-golovnye-ubory?p=5",
+            "category": "Головные уборы",
+            "id": 9017
+        },
+        {
+            "url": "http://gvardeisky.com.ua/15-golovnye-ubory?p=6",
+            "category": "Головные уборы",
+            "id": 9017
+        },
+        {
+            "url": "http://gvardeisky.com.ua/15-golovnye-ubory?p=7",
+            "category": "Головные уборы",
+            "id": 9017
+        },
+        {
+            "url": "http://gvardeisky.com.ua/15-golovnye-ubory?p=8",
+            "category": "Головные уборы",
+            "id": 9017
+        },
+        {
+            "url": "http://gvardeisky.com.ua/15-golovnye-ubory?p=9",
+            "category": "Головные уборы",
+            "id": 9017
+        },
+        {
+            "url": "http://gvardeisky.com.ua/15-golovnye-ubory?p=10",
+            "category": "Головные уборы",
+            "id": 9017
+        },
+        {
+            "url": "http://gvardeisky.com.ua/26-furazhki?p=1",
+            "category": "Фуражки",
+            "id": 9018
+        },
+        {
+            "url": "http://gvardeisky.com.ua/16-kepki?p=1",
+            "category": "Кепки",
+            "id": 9019
+        },
+        {
+            "url": "http://gvardeisky.com.ua/16-kepki?p=2",
+            "category": "Кепки",
+            "id": 9019
+        },
+        {
+            "url": "http://gvardeisky.com.ua/27-berety-i-pilotki?p=1",
+            "category": "Береты и пилотки",
+            "id": 9020
+        },
+        {
+            "url": "http://gvardeisky.com.ua/28-bejsbolki-i-panamy?p=1",
+            "category": "Бейсболки и панамы",
+            "id": 9021
+        },
+        {
+            "url": "http://gvardeisky.com.ua/28-bejsbolki-i-panamy?p=2",
+            "category": "Бейсболки и панамы",
+            "id": 9021
+        },
+        {
+            "url": "http://gvardeisky.com.ua/28-bejsbolki-i-panamy?p=3",
+            "category": "Бейсболки и панамы",
+            "id": 9021
+        },
+        {
+            "url": "http://gvardeisky.com.ua/29-shapki-vyazannye?p=1",
+            "category": "Шапки вязанные",
+            "id": 9022
+        },
+        {
+            "url": "http://gvardeisky.com.ua/42-shapki-mekhovye?p=1",
+            "category": "Шапки меховые",
+            "id": 9023
+        },
+        {
+            "url": "http://gvardeisky.com.ua/30-shapki-flisovye?p=1",
+            "category": "Шапки флисовые",
+            "id": 9024
+        },
+        {
+            "url": "http://gvardeisky.com.ua/30-shapki-flisovye?p=2",
+            "category": "Шапки флисовые",
+            "id": 9024
+        },
+        {
+            "url": "http://gvardeisky.com.ua/31-arafatka-bandany?p=1",
+            "category": "Арафатка, банданы",
+            "id": 9025
+        },
+        {
+            "url": "http://gvardeisky.com.ua/32-sharf-baf-balaklavy?p=1",
+            "category": "Шарф, баф, балаклавы",
+            "id": 9026
+        },
+        {
+            "url": "http://gvardeisky.com.ua/32-sharf-baf-balaklavy?p=2",
+            "category": "Шарф, баф, балаклавы",
+            "id": 9026
+        },
+        {
+            "url": "http://gvardeisky.com.ua/64-karakul?p=1",
+            "category": "Каракуль",
+            "id": 9027
+        },
+        {
+            "url": "http://gvardeisky.com.ua/5-futbolkimajki?p=1",
+            "category": "Футболки/Майки",
+            "id": 9028
+        },
+        {
+            "url": "http://gvardeisky.com.ua/5-futbolkimajki?p=2",
+            "category": "Футболки/Майки",
+            "id": 9028
+        },
+        {
+            "url": "http://gvardeisky.com.ua/5-futbolkimajki?p=3",
+            "category": "Футболки/Майки",
+            "id": 9028
+        },
+        {
+            "url": "http://gvardeisky.com.ua/7-armejskoe-termobele?p=1",
+            "category": "Армейское термобелье",
+            "id": 9029
+        },
+        {
+            "url": "http://gvardeisky.com.ua/73-noski?p=1",
+            "category": "Носки",
+            "id": 9030
+        },
+        {
+            "url": "http://gvardeisky.com.ua/19-obuv?p=1",
+            "category": "Обувь",
+            "id": 9031
+        },
+        {
+            "url": "http://gvardeisky.com.ua/19-obuv?p=2",
+            "category": "Обувь",
+            "id": 9031
+        },
+        {
+            "url": "http://gvardeisky.com.ua/19-obuv?p=3",
+            "category": "Обувь",
+            "id": 9031
+        },
+        {
+            "url": "http://gvardeisky.com.ua/47-bercy?p=1",
+            "category": "Берцы",
+            "id": 9032
+        },
+        {
+            "url": "http://gvardeisky.com.ua/47-bercy?p=2",
+            "category": "Берцы",
+            "id": 9032
+        },
+        {
+            "url": "http://gvardeisky.com.ua/48-tufli?p=1",
+            "category": "Туфли",
+            "id": 9033
+        },
+        {
+            "url": "http://gvardeisky.com.ua/49-botinki-i-polubotinki?p=1",
+            "category": "Ботинки и полуботинки",
+            "id": 9034
+        },
+        {
+            "url": "http://gvardeisky.com.ua/50-krossovki?p=1",
+            "category": "Кроссовки",
+            "id": 9035
+        },
+        {
+            "url": "http://gvardeisky.com.ua/62-soputstvuyusshie-materialy?p=1",
+            "category": "Сопутствующие материалы",
+            "id": 9036
+        },
+        {
+            "url": "http://gvardeisky.com.ua/17-kozhgalantereya?p=1",
+            "category": "Кожгалантерея",
+            "id": 9037
+        },
+        {
+            "url": "http://gvardeisky.com.ua/17-kozhgalantereya?p=2",
+            "category": "Кожгалантерея",
+            "id": 9037
+        },
+        {
+            "url": "http://gvardeisky.com.ua/17-kozhgalantereya?p=3",
+            "category": "Кожгалантерея",
+            "id": 9037
+        },
+        {
+            "url": "http://gvardeisky.com.ua/17-kozhgalantereya?p=4",
+            "category": "Кожгалантерея",
+            "id": 9037
+        },
+        {
+            "url": "http://gvardeisky.com.ua/43-kobury?p=1",
+            "category": "Кобуры",
+            "id": 9038
+        },
+        {
+            "url": "http://gvardeisky.com.ua/43-kobury?p=2",
+            "category": "Кобуры",
+            "id": 9038
+        },
+        {
+            "url": "http://gvardeisky.com.ua/44-naveski?p=1",
+            "category": "Навески",
+            "id": 9039
+        },
+        {
+            "url": "http://gvardeisky.com.ua/45-remni?p=1",
+            "category": "Ремни",
+            "id": 9040
+        },
+        {
+            "url": "http://gvardeisky.com.ua/45-remni?p=2",
+            "category": "Ремни",
+            "id": 9040
+        },
+        {
+            "url": "http://gvardeisky.com.ua/46-oblozhki-i-breloki?p=1",
+            "category": "Обложки и брелоки",
+            "id": 9041
+        },
+        {
+            "url": "http://gvardeisky.com.ua/34-pokhodnye-aksesuary?p=1",
+            "category": "Походные аксесуары",
+            "id": 9042
+        },
+        {
+            "url": "http://gvardeisky.com.ua/34-pokhodnye-aksesuary?p=2",
+            "category": "Походные аксесуары",
+            "id": 9042
+        },
+        {
+            "url": "http://gvardeisky.com.ua/34-pokhodnye-aksesuary?p=3",
+            "category": "Походные аксесуары",
+            "id": 9042
+        },
+        {
+            "url": "http://gvardeisky.com.ua/34-pokhodnye-aksesuary?p=4",
+            "category": "Походные аксесуары",
+            "id": 9042
+        },
+        {
+            "url": "http://gvardeisky.com.ua/34-pokhodnye-aksesuary?p=5",
+            "category": "Походные аксесуары",
+            "id": 9042
+        },
+        {
+            "url": "http://gvardeisky.com.ua/67-palatki?p=1",
+            "category": "Палатки",
+            "id": 9043
+        },
+        {
+            "url": "http://gvardeisky.com.ua/68-flyagi?p=1",
+            "category": "Фляги",
+            "id": 9044
+        },
+        {
+            "url": "http://gvardeisky.com.ua/68-flyagi?p=2",
+            "category": "Фляги",
+            "id": 9044
+        },
+        {
+            "url": "http://gvardeisky.com.ua/74-nabor-dlya-vyzhivaniya?p=1",
+            "category": "Набор для выживания",
+            "id": 9045
+        },
+        {
+            "url": "http://gvardeisky.com.ua/74-nabor-dlya-vyzhivaniya?p=2",
+            "category": "Набор для выживания",
+            "id": 9045
+        },
+        {
+            "url": "http://gvardeisky.com.ua/74-nabor-dlya-vyzhivaniya?p=3",
+            "category": "Набор для выживания",
+            "id": 9045
+        },
+        {
+            "url": "http://gvardeisky.com.ua/58-prochee?p=1",
+            "category": "Прочее",
+            "id": 9046
+        },
+        {
+            "url": "http://gvardeisky.com.ua/58-prochee?p=2",
+            "category": "Прочее",
+            "id": 9046
+        },
+        {
+            "url": "http://gvardeisky.com.ua/35-shevrony-nashivki?p=1",
+            "category": "Шевроны, нашивки",
+            "id": 9047
+        },
+        {
+            "url": "http://gvardeisky.com.ua/36-furnitura?p=1",
+            "category": "Фурнитура",
+            "id": 9048
+        },
+        {
+            "url": "http://gvardeisky.com.ua/51-zazhimy-dlya-galstuka?p=1",
+            "category": "Зажимы для галстука",
+            "id": 9049
+        },
+        {
+            "url": "http://gvardeisky.com.ua/52-kokardy?p=1",
+            "category": "Кокарды",
+            "id": 9050
+        },
+        {
+            "url": "http://gvardeisky.com.ua/53-zvezdy?p=1",
+            "category": "Звезды",
+            "id": 9051
+        },
+        {
+            "url": "http://gvardeisky.com.ua/54-pugovicy?p=1",
+            "category": "Пуговицы",
+            "id": 9052
+        },
+        {
+            "url": "http://gvardeisky.com.ua/55-emblemy?p=1",
+            "category": "Эмблемы",
+            "id": 9053
+        },
+        {
+            "url": "http://gvardeisky.com.ua/56-lychki-bukvy?p=1",
+            "category": "Лычки, буквы",
+            "id": 9054
+        },
+        {
+            "url": "http://gvardeisky.com.ua/57-akselbanty-pozumenty?p=1",
+            "category": "Аксельбанты, позументы",
+            "id": 9055
+        },
+        {
+            "url": "http://gvardeisky.com.ua/60-znachkizhetony-cepochki?p=1",
+            "category": "Значки,жетоны, цепочки",
+            "id": 9056
+        },
+        {
+            "url": "http://gvardeisky.com.ua/61-pogony?p=1",
+            "category": "Погоны",
+            "id": 9057
+        },
+        {
+            "url": "http://gvardeisky.com.ua/69-ochkimaski?p=1",
+            "category": "Очки/Маски",
+            "id": 9058
+        },
+        {
+            "url": "http://gvardeisky.com.ua/69-ochkimaski?p=2",
+            "category": "Очки/Маски",
+            "id": 9058
+        },
+        {
+            "url": "http://gvardeisky.com.ua/71-strelkovye-naushniki?p=1",
+            "category": "Стрелковые наушники",
+            "id": 9059
+        },
+        {
+            "url": "http://gvardeisky.com.ua/59-rasprodazha?p=1",
+            "category": "Распродажа",
+            "id": 9060
+        }
+    ]
+}

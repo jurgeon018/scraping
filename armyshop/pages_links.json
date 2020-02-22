@@ -1,0 +1,584 @@
+{
+    "pages_links": [
+        {
+            "url": "http://armyshop.net.ua/katalog/?page=1",
+            "category": "Каталог"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/akselbanty/?page=1",
+            "category": "Аксельбанты"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/akselbanty/?page=2",
+            "category": "Аксельбанты"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/binokli/?page=1",
+            "category": "Бинокли"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/blyakhi-pryazhki-remnyam/?page=1",
+            "category": "Бляхи и пряжки к ремням"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=1",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=2",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=3",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=4",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=5",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=6",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=7",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=8",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=9",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=10",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=11",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=12",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=13",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=14",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=15",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=16",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=17",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=18",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/vyshivka/?page=19",
+            "category": "Вышивка"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/galstuki/?page=1",
+            "category": "Галстуки"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/galstuki/?page=2",
+            "category": "Галстуки"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/golovnoy-ubor/?page=1",
+            "category": "Головной убор"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/golovnoy-ubor/?page=2",
+            "category": "Головной убор"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/golovnoy-ubor/?page=3",
+            "category": "Головной убор"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/golovnoy-ubor/?page=4",
+            "category": "Головной убор"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/golovnoy-ubor/?page=5",
+            "category": "Головной убор"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/golovnoy-ubor/?page=6",
+            "category": "Головной убор"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/golovnoy-ubor/?page=7",
+            "category": "Головной убор"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/zhetoni/?page=1",
+            "category": "Жетоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/zhetoni/?page=2",
+            "category": "Жетоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/zhetoni/?page=3",
+            "category": "Жетоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/znachki/?page=1",
+            "category": "Значки"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/znachki/?page=2",
+            "category": "Значки"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/medali/?page=1",
+            "category": "Медали"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/medali/?page=2",
+            "category": "Медали"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/medali/?page=3",
+            "category": "Медали"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/medali/?page=4",
+            "category": "Медали"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/oblogki/?page=1",
+            "category": "Обложки и цепи к ним"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/oblogki/?page=2",
+            "category": "Обложки и цепи к ним"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/obuv/?page=1",
+            "category": "Обувь"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/obuv/?page=2",
+            "category": "Обувь"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/obuv/?page=3",
+            "category": "Обувь"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/obuv/?page=4",
+            "category": "Обувь"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/odegda/?page=1",
+            "category": "Одежда"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/odegda/?page=2",
+            "category": "Одежда"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/odegda/?page=3",
+            "category": "Одежда"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/odegda/?page=4",
+            "category": "Одежда"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/odegda/?page=5",
+            "category": "Одежда"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/odegda/?page=6",
+            "category": "Одежда"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/odegda/?page=7",
+            "category": "Одежда"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/odegda/?page=8",
+            "category": "Одежда"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/odegda/?page=9",
+            "category": "Одежда"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/odegda/?page=10",
+            "category": "Одежда"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/odegda/?page=11",
+            "category": "Одежда"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/odegda/?page=12",
+            "category": "Одежда"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/odegda/?page=13",
+            "category": "Одежда"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=1",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=2",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=3",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=4",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=5",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=6",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=7",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=8",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=9",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=10",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=11",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=12",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=13",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=14",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=15",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=16",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/pogoni/?page=17",
+            "category": "Погоны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/remni/?page=1",
+            "category": "Ремни"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/snaragenie/?page=1",
+            "category": "Снаряжение"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/snaragenie/?page=2",
+            "category": "Снаряжение"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/snaragenie/?page=3",
+            "category": "Снаряжение"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/snaragenie/?page=4",
+            "category": "Снаряжение"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/snaragenie/?page=5",
+            "category": "Снаряжение"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/snaragenie/?page=6",
+            "category": "Снаряжение"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/snaragenie/?page=7",
+            "category": "Снаряжение"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/soput-tovari/?page=1",
+            "category": "Сопутствующие товары"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/soput-tovari/?page=2",
+            "category": "Сопутствующие товары"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/suveniri-i-podarki/?page=1",
+            "category": "Сувениры и подарки"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/flagi-flagki/?page=1",
+            "category": "Флаги, флажки и наконечники"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/furnitura-metall/?page=1",
+            "category": "Фурнитура металлическая"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/furnitura-plastik/?page=1",
+            "category": "Фурнитура пластиковая"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/furnitura-plastik/?page=2",
+            "category": "Фурнитура пластиковая"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/furnitura-plastik/?page=3",
+            "category": "Фурнитура пластиковая"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/furnitura-plastik/?page=4",
+            "category": "Фурнитура пластиковая"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/furnitura-plastik/?page=5",
+            "category": "Фурнитура пластиковая"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/furnitura-plastik/?page=6",
+            "category": "Фурнитура пластиковая"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/furnitura-plastik/?page=7",
+            "category": "Фурнитура пластиковая"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/furnitura-plastik/?page=8",
+            "category": "Фурнитура пластиковая"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/furnitura-plastik/?page=9",
+            "category": "Фурнитура пластиковая"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=1",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=2",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=3",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=4",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=5",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=6",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=7",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=8",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=9",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=10",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=11",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=12",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=13",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=14",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=15",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=16",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=17",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=18",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=19",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=20",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=21",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=22",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=23",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=24",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=25",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=26",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=27",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=28",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=29",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=30",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=31",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=32",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=33",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=34",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=35",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=36",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=37",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=38",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/shevroni/?page=39",
+            "category": "Шевроны"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/emblemi/?page=1",
+            "category": "Эмблемы"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/emblemi/?page=2",
+            "category": "Эмблемы"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/emblemi/?page=3",
+            "category": "Эмблемы"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/emblemi/?page=4",
+            "category": "Эмблемы"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/emblemi/?page=5",
+            "category": "Эмблемы"
+        },
+        {
+            "url": "http://armyshop.net.ua/katalog/emblemi/?page=6",
+            "category": "Эмблемы"
+        }
+    ]
+}

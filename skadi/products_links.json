@@ -1,0 +1,519 @@
+{
+    "products_links": [
+        {
+            "url": "https://skadi.net.ua/product/defence-zsu-bercy/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product/defence-coyote-bercy/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product/defence-black-bercy/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product/b2-zsu-bercy-voennye/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product/sl2-green-bercy-gidrofobnye/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product/sl2-white-bercy-gidrofobnye/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product/sl1-coyote-bercy-armejskie/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product/sl1-black-bercy-armejskie/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product/b2-coyote-bercy-voennye/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product/b2-atax-bercy-voennye/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product/b2-black-bercy-voennye/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product/bk-black-bercy-voennye/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product/b7-black-bercy-demisezonnye/",
+            "category": "Берцы",
+            "id": 9001
+        },
+        {
+            "url": "https://skadi.net.ua/product/botinki-2020-sand/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/botinki-2020-black/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/botinki-power-black/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/botinki-vektor-black/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/botinki-vektor/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/sd6-black-botinki-turisticheskie/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/sr4-brown-botinki/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/sr4-olive-botinki/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/b5-black-botinki-trekingovye/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/k3-black-polubotinki-sportivnye/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/sb-black-botinki-skadi/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/sd6-olive-botinki-turisticheskie/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/sr4-black-botinki/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/b4-gray-botinki-pohodnye/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/k3-brown-polubotinki-sportivnye/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/b4-blue-botinki-pohodnye/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/b5-green-botinki-trekingovye/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/b5-olive-botinki-trekingovye/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/b8-coyote-botinki-demisezonnye/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/b6-gray-botinki-demisezonnye/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/b6-black-botinki-demisezonnye/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/b8-green-botinki-demisezonnye/",
+            "category": "Ботинки",
+            "id": 9002
+        },
+        {
+            "url": "https://skadi.net.ua/product/k2-zsu-kedy-takticheskie/",
+            "category": "Кеды",
+            "id": 9003
+        },
+        {
+            "url": "https://skadi.net.ua/product/k2-atax-kedy-takticheskie/",
+            "category": "Кеды",
+            "id": 9003
+        },
+        {
+            "url": "https://skadi.net.ua/product/k2-olive-kedy-takticheskie/",
+            "category": "Кеды",
+            "id": 9003
+        },
+        {
+            "url": "https://skadi.net.ua/product/k2-brown-kedy-takticheskie/",
+            "category": "Кеды",
+            "id": 9003
+        },
+        {
+            "url": "https://skadi.net.ua/product/k2-b-pixel-kedy-takticheskie/",
+            "category": "Кеды",
+            "id": 9003
+        },
+        {
+            "url": "https://skadi.net.ua/product/k2-black-kedy-takticheskie/",
+            "category": "Кеды",
+            "id": 9003
+        },
+        {
+            "url": "https://skadi.net.ua/product/k1-black-kedy-vysokie/",
+            "category": "Кеды",
+            "id": 9003
+        },
+        {
+            "url": "https://skadi.net.ua/product/k1-brown-kedy-vysokie/",
+            "category": "Кеды",
+            "id": 9003
+        },
+        {
+            "url": "https://skadi.net.ua/product/2001-atax-krossovki-dlya-voennyh/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2001-zsu-krossovki-dlya-voennyh/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2009-olive-krossovki-takticheskie/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2009s-olive-krossovki-setka/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2009s-black-krossovki-setka/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2001s-black-krossovki-letnie/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2001-brown-krossovki-dlya-voennyh/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/kroscovki-taktik-skadi/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2007-black-krossovki-muzhskie/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2009-black-krossovki-takticheskie/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2001s-olive-krossovki-setka/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/k4-black-krossovki/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/k4-brown-krossovki/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2018-gray-krossovki-letnie/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2018-sand-krossovki-letnie/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2018-olive-krossovki-letnie/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2020-atax-krossovki/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2020-b-pixel-krossovki/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2001-black-krossovki-takticheskie/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2001-olive-krossovki-takticheskie/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2001v-brown-krossovki-demisezonnye/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/2001v-black-krossovki-demisezonnye/",
+            "category": "Кроссовки",
+            "id": 9004
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnie-botinki-2020-sand/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnie-botinki-power-black/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnie-botinki-sd6/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnie-botinki-sr4/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnie-botinki-b4/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnie-botinki-b5/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnie-botinki-b8/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnie-botinki-b6/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnie-botinki-sb/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/bercy-zimnie-sl1/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/bercy-zimnie-b7/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/bercy-zimnie-b2/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/bercy-zimnie-bk/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnie-botinki-skadi/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/kedy-zimnie-k2/",
+            "category": "Зимняя обувь",
+            "id": 9005
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnij-kostyum-kzb-002/",
+            "category": "Зимние костюмы ",
+            "id": 9006
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnij-kostyum-kzb-008/",
+            "category": "Зимние костюмы ",
+            "id": 9006
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnij-kostyum-kzb-004/",
+            "category": "Зимние костюмы ",
+            "id": 9006
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnij-kostyum-kzb-003/",
+            "category": "Зимние костюмы ",
+            "id": 9006
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnij-kostyum-kzb-010/",
+            "category": "Зимние костюмы ",
+            "id": 9006
+        },
+        {
+            "url": "https://skadi.net.ua/product/zimnij-kostyum-kzb-009/",
+            "category": "Зимние костюмы ",
+            "id": 9006
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-zimnij-taslan/",
+            "category": "Зимние костюмы ",
+            "id": 9006
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-snowmax-green-zimnij/",
+            "category": "Зимние костюмы ",
+            "id": 9006
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-snowmax-blue-yellow-zimnij/",
+            "category": "Зимние костюмы ",
+            "id": 9006
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-snowmax-blue-red-zimnij/",
+            "category": "Зимние костюмы ",
+            "id": 9006
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-windmax-green/",
+            "category": "Демисезонные костюмы",
+            "id": 9007
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-windmax-blue-red/",
+            "category": "Демисезонные костюмы",
+            "id": 9007
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-windmax-blue-yellow/",
+            "category": "Демисезонные костюмы",
+            "id": 9007
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-windmax-coyote/",
+            "category": "Демисезонные костюмы",
+            "id": 9007
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-soft-shell-black/",
+            "category": "Демисезонные костюмы",
+            "id": 9007
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-soft-shell-dark-blue/",
+            "category": "Демисезонные костюмы",
+            "id": 9007
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-soft-shell-sand/",
+            "category": "Демисезонные костюмы",
+            "id": 9007
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-klh-001-les-dub-zelenyj/",
+            "category": "Летние костюмы",
+            "id": 9008
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-klh-002-les-zhelud/",
+            "category": "Летние костюмы",
+            "id": 9008
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-klh-003-les-osen/",
+            "category": "Летние костюмы",
+            "id": 9008
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-klh-004-niva/",
+            "category": "Летние костюмы",
+            "id": 9008
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-klh-005-kamysh/",
+            "category": "Летние костюмы",
+            "id": 9008
+        },
+        {
+            "url": "https://skadi.net.ua/product/kostyum-klh-006-les-dub-korichnevyj/",
+            "category": "Летние костюмы",
+            "id": 9008
+        }
+    ]
+}

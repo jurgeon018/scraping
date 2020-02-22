@@ -304,6 +304,7 @@ class Parser(object):
     price        = self.get_price(soup)[0]
     currency     = self.get_price(soup)[1]
     # availability = self.get_availability(soup)
+    manufacturer = self.get_manufacturer(soup)
     data         = self.get_products_sheet()
     data         = self.get_features(soup, data)
     # data['Код_товара']           = articule
@@ -318,16 +319,18 @@ class Parser(object):
     # data['Идентификтор_товара']  = articule
     data['Ссылка_изображения']   = imgs
     data['Наличие']              = '+'#availability
+    data['Производитель']        = manufacturer
     
     print('\n') 
     print("Ссылка: ",url)
-    print("Изображения: ", imgs)
-    print("Название: ",name)
+    # print("Изображения: ", imgs)
+    # print("Название: ",name)
     # print("Артикул: ",articule)
-    print("Цена: ",price)
-    print("Валюта: ",currency)
-    print("Категория: ",category)
-    print("Описание: ",desc)
+    # print("Цена: ",price)
+    # print("Валюта: ",currency)
+    # print("Категория: ",category)
+    print('Производитель:', manufacturer)
+    # print("Описание: ",desc)
     print('\n')
     self.write_csv(data=data, filename=self.products_filename)
   
@@ -414,6 +417,11 @@ class Parser(object):
       print(e)
     return data
 
+  def get_manufacturer(self, *args, **kwargs):
+    soup = args[0]
+    # manufacturer = soup.find('div', {'class':'product-main-block'}).find_all('section')[1].find_all('li')[1].span.text.strip()
+    manufacturer = soup.find('div', {'class':'product-main-block'}).find_all('section')[1].find_all('span')[0].text.strip()
+    return manufacturer
 
 def main():
   parser = Parser()
@@ -435,6 +443,11 @@ def main():
   # # закоментируй:
   # #   self.get_products(url)
   # #   self.write_product_info(url=link)
+
+  
+  # url = ['https://kaminlux.com.ua/goods.php/Stalnye-topki/Kaminnaya-topka-Hajduk-Volcano-2LTh/', 'Каминные топки','Стальные топки']
+  # parser.write_product_info(url[0], url[1])
+  # return
   url1 = ['https://kaminlux.com.ua/goods.php/Stalnye-topki/', 'Каминные топки', 'Стальные топки']
   url2 = ['https://kaminlux.com.ua/goods.php/CHugunnye-topki/', 'Каминные топки', 'Чугунные топки']
   url3 = ['https://kaminlux.com.ua/goods.php/Topki-s-vodyanym-konturom/', 'Каминные топки', 'Топки с водяным контуром']

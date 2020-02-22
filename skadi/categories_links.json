@@ -1,0 +1,46 @@
+{
+    "categories_links": [
+        {
+            "id": 9001,
+            "name": "Мужская обувь",
+            "url": "https://skadi.net.ua/product-category/muzhskaya-obuv/bercy/",
+            "parent_name": "",
+            "parent_url": "",
+            "parent_id": ""
+        },
+        {
+            "id": 9001,
+            "name": "Одежда",
+            "url": "",
+            "parent_name": "",
+            "parent_url": "",
+            "parent_id": ""
+        },
+        {
+            "id": 9001,
+            "name": "Одежда",
+            "url": "",
+            "parent_name": "",
+            "parent_url": "",
+            "parent_id": ""
+        },
+        {
+            "id": 9001,
+            "name": "Одежда",
+            "url": "",
+            "parent_name": "",
+            "parent_url": "",
+            "parent_id": ""
+        },
+        {
+            "id": 9001,
+            "name": "Одежда",
+            "url": "",
+            "parent_name": "",
+            "parent_url": "",
+            "parent_id": ""
+        },
+        
+        
+    ]
+}

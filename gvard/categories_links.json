@@ -1,0 +1,484 @@
+{
+    "categories_links": [
+        {
+            "id": 9001,
+            "name": "Одежда",
+            "url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_name": "",
+            "parent_url": "",
+            "parent_id": ""
+        },
+        {
+            "id": 9002,
+            "name": "Костюмы",
+            "url": "http://gvardeisky.com.ua/4-kostyumy",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9003,
+            "name": "Рубашки",
+            "url": "http://gvardeisky.com.ua/8-rubashki",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9004,
+            "name": "Комбинезоны",
+            "url": "http://gvardeisky.com.ua/70-kombinezony",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9005,
+            "name": "Куртки",
+            "url": "http://gvardeisky.com.ua/22-kurtki",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9006,
+            "name": "Брюки/ Полукомбенизоны",
+            "url": "http://gvardeisky.com.ua/21-bryuki-polukombenizony",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9007,
+            "name": "Бушлаты",
+            "url": "http://gvardeisky.com.ua/23-bushlaty",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9008,
+            "name": "Свитера/Подстежки",
+            "url": "http://gvardeisky.com.ua/24-sviterapodstezhki",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9009,
+            "name": "Жилеты",
+            "url": "http://gvardeisky.com.ua/25-zhilety",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9010,
+            "name": "Юбки",
+            "url": "http://gvardeisky.com.ua/38-yubki",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9011,
+            "name": "Кители",
+            "url": "http://gvardeisky.com.ua/39-kiteli",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9012,
+            "name": "Дождевые комплекты",
+            "url": "http://gvardeisky.com.ua/40-dozhdevye-komplekty",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9013,
+            "name": "Пончо",
+            "url": "http://gvardeisky.com.ua/72-poncho",
+            "parent_name": "Дождевые комплекты",
+            "parent_url": "http://gvardeisky.com.ua/40-dozhdevye-komplekty",
+            "parent_id": 9012
+        },
+        {
+            "id": 9014,
+            "name": "Галстуки",
+            "url": "http://gvardeisky.com.ua/41-galstuki",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9015,
+            "name": "Перчатки",
+            "url": "http://gvardeisky.com.ua/63-perchatki",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9016,
+            "name": "Маскировка",
+            "url": "http://gvardeisky.com.ua/66-maskirovka",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9017,
+            "name": "Головные уборы",
+            "url": "http://gvardeisky.com.ua/15-golovnye-ubory",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9018,
+            "name": "Фуражки",
+            "url": "http://gvardeisky.com.ua/26-furazhki",
+            "parent_name": "Головные уборы",
+            "parent_url": "http://gvardeisky.com.ua/15-golovnye-ubory",
+            "parent_id": 9017
+        },
+        {
+            "id": 9019,
+            "name": "Кепки",
+            "url": "http://gvardeisky.com.ua/16-kepki",
+            "parent_name": "Головные уборы",
+            "parent_url": "http://gvardeisky.com.ua/15-golovnye-ubory",
+            "parent_id": 9017
+        },
+        {
+            "id": 9020,
+            "name": "Береты и пилотки",
+            "url": "http://gvardeisky.com.ua/27-berety-i-pilotki",
+            "parent_name": "Головные уборы",
+            "parent_url": "http://gvardeisky.com.ua/15-golovnye-ubory",
+            "parent_id": 9017
+        },
+        {
+            "id": 9021,
+            "name": "Бейсболки и панамы",
+            "url": "http://gvardeisky.com.ua/28-bejsbolki-i-panamy",
+            "parent_name": "Головные уборы",
+            "parent_url": "http://gvardeisky.com.ua/15-golovnye-ubory",
+            "parent_id": 9017
+        },
+        {
+            "id": 9022,
+            "name": "Шапки вязанные",
+            "url": "http://gvardeisky.com.ua/29-shapki-vyazannye",
+            "parent_name": "Головные уборы",
+            "parent_url": "http://gvardeisky.com.ua/15-golovnye-ubory",
+            "parent_id": 9017
+        },
+        {
+            "id": 9023,
+            "name": "Шапки меховые",
+            "url": "http://gvardeisky.com.ua/42-shapki-mekhovye",
+            "parent_name": "Головные уборы",
+            "parent_url": "http://gvardeisky.com.ua/15-golovnye-ubory",
+            "parent_id": 9017
+        },
+        {
+            "id": 9024,
+            "name": "Шапки флисовые",
+            "url": "http://gvardeisky.com.ua/30-shapki-flisovye",
+            "parent_name": "Головные уборы",
+            "parent_url": "http://gvardeisky.com.ua/15-golovnye-ubory",
+            "parent_id": 9017
+        },
+        {
+            "id": 9025,
+            "name": "Арафатка, банданы",
+            "url": "http://gvardeisky.com.ua/31-arafatka-bandany",
+            "parent_name": "Головные уборы",
+            "parent_url": "http://gvardeisky.com.ua/15-golovnye-ubory",
+            "parent_id": 9017
+        },
+        {
+            "id": 9026,
+            "name": "Шарф, баф, балаклавы",
+            "url": "http://gvardeisky.com.ua/32-sharf-baf-balaklavy",
+            "parent_name": "Головные уборы",
+            "parent_url": "http://gvardeisky.com.ua/15-golovnye-ubory",
+            "parent_id": 9017
+        },
+        {
+            "id": 9027,
+            "name": "Каракуль",
+            "url": "http://gvardeisky.com.ua/64-karakul",
+            "parent_name": "Головные уборы",
+            "parent_url": "http://gvardeisky.com.ua/15-golovnye-ubory",
+            "parent_id": 9017
+        },
+        {
+            "id": 9028,
+            "name": "Футболки/Майки",
+            "url": "http://gvardeisky.com.ua/5-futbolkimajki",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9029,
+            "name": "Армейское термобелье",
+            "url": "http://gvardeisky.com.ua/7-armejskoe-termobele",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9030,
+            "name": "Носки",
+            "url": "http://gvardeisky.com.ua/73-noski",
+            "parent_name": "Одежда",
+            "parent_url": "http://gvardeisky.com.ua/3-odezhda",
+            "parent_id": 9001
+        },
+        {
+            "id": 9031,
+            "name": "Обувь",
+            "url": "http://gvardeisky.com.ua/19-obuv",
+            "parent_name": "",
+            "parent_url": "",
+            "parent_id": ""
+        },
+        {
+            "id": 9032,
+            "name": "Берцы",
+            "url": "http://gvardeisky.com.ua/47-bercy",
+            "parent_name": "Обувь",
+            "parent_url": "http://gvardeisky.com.ua/19-obuv",
+            "parent_id": 9031
+        },
+        {
+            "id": 9033,
+            "name": "Туфли",
+            "url": "http://gvardeisky.com.ua/48-tufli",
+            "parent_name": "Обувь",
+            "parent_url": "http://gvardeisky.com.ua/19-obuv",
+            "parent_id": 9031
+        },
+        {
+            "id": 9034,
+            "name": "Ботинки и полуботинки",
+            "url": "http://gvardeisky.com.ua/49-botinki-i-polubotinki",
+            "parent_name": "Обувь",
+            "parent_url": "http://gvardeisky.com.ua/19-obuv",
+            "parent_id": 9031
+        },
+        {
+            "id": 9035,
+            "name": "Кроссовки",
+            "url": "http://gvardeisky.com.ua/50-krossovki",
+            "parent_name": "Обувь",
+            "parent_url": "http://gvardeisky.com.ua/19-obuv",
+            "parent_id": 9031
+        },
+        {
+            "id": 9036,
+            "name": "Сопутствующие материалы",
+            "url": "http://gvardeisky.com.ua/62-soputstvuyusshie-materialy",
+            "parent_name": "Обувь",
+            "parent_url": "http://gvardeisky.com.ua/19-obuv",
+            "parent_id": 9031
+        },
+        {
+            "id": 9037,
+            "name": "Кожгалантерея",
+            "url": "http://gvardeisky.com.ua/17-kozhgalantereya",
+            "parent_name": "",
+            "parent_url": "",
+            "parent_id": ""
+        },
+        {
+            "id": 9038,
+            "name": "Кобуры",
+            "url": "http://gvardeisky.com.ua/43-kobury",
+            "parent_name": "Кожгалантерея",
+            "parent_url": "http://gvardeisky.com.ua/17-kozhgalantereya",
+            "parent_id": 9037
+        },
+        {
+            "id": 9039,
+            "name": "Навески",
+            "url": "http://gvardeisky.com.ua/44-naveski",
+            "parent_name": "Кожгалантерея",
+            "parent_url": "http://gvardeisky.com.ua/17-kozhgalantereya",
+            "parent_id": 9037
+        },
+        {
+            "id": 9040,
+            "name": "Ремни",
+            "url": "http://gvardeisky.com.ua/45-remni",
+            "parent_name": "Кожгалантерея",
+            "parent_url": "http://gvardeisky.com.ua/17-kozhgalantereya",
+            "parent_id": 9037
+        },
+        {
+            "id": 9041,
+            "name": "Обложки и брелоки",
+            "url": "http://gvardeisky.com.ua/46-oblozhki-i-breloki",
+            "parent_name": "Кожгалантерея",
+            "parent_url": "http://gvardeisky.com.ua/17-kozhgalantereya",
+            "parent_id": 9037
+        },
+        {
+            "id": 9042,
+            "name": "Походные аксесуары",
+            "url": "http://gvardeisky.com.ua/34-pokhodnye-aksesuary",
+            "parent_name": "",
+            "parent_url": "",
+            "parent_id": ""
+        },
+        {
+            "id": 9043,
+            "name": "Палатки",
+            "url": "http://gvardeisky.com.ua/67-palatki",
+            "parent_name": "Походные аксесуары",
+            "parent_url": "http://gvardeisky.com.ua/34-pokhodnye-aksesuary",
+            "parent_id": 9042
+        },
+        {
+            "id": 9044,
+            "name": "Фляги",
+            "url": "http://gvardeisky.com.ua/68-flyagi",
+            "parent_name": "Походные аксесуары",
+            "parent_url": "http://gvardeisky.com.ua/34-pokhodnye-aksesuary",
+            "parent_id": 9042
+        },
+        {
+            "id": 9045,
+            "name": "Набор для выживания",
+            "url": "http://gvardeisky.com.ua/74-nabor-dlya-vyzhivaniya",
+            "parent_name": "Походные аксесуары",
+            "parent_url": "http://gvardeisky.com.ua/34-pokhodnye-aksesuary",
+            "parent_id": 9042
+        },
+        {
+            "id": 9046,
+            "name": "Прочее",
+            "url": "http://gvardeisky.com.ua/58-prochee",
+            "parent_name": "",
+            "parent_url": "",
+            "parent_id": ""
+        },
+        {
+            "id": 9047,
+            "name": "Шевроны, нашивки",
+            "url": "http://gvardeisky.com.ua/35-shevrony-nashivki",
+            "parent_name": "Прочее",
+            "parent_url": "http://gvardeisky.com.ua/58-prochee",
+            "parent_id": 9046
+        },
+        {
+            "id": 9048,
+            "name": "Фурнитура",
+            "url": "http://gvardeisky.com.ua/36-furnitura",
+            "parent_name": "Прочее",
+            "parent_url": "http://gvardeisky.com.ua/58-prochee",
+            "parent_id": 9046
+        },
+        {
+            "id": 9049,
+            "name": "Зажимы для галстука",
+            "url": "http://gvardeisky.com.ua/51-zazhimy-dlya-galstuka",
+            "parent_name": "Фурнитура",
+            "parent_url": "http://gvardeisky.com.ua/36-furnitura",
+            "parent_id": 9048
+        },
+        {
+            "id": 9050,
+            "name": "Кокарды",
+            "url": "http://gvardeisky.com.ua/52-kokardy",
+            "parent_name": "Фурнитура",
+            "parent_url": "http://gvardeisky.com.ua/36-furnitura",
+            "parent_id": 9048
+        },
+        {
+            "id": 9051,
+            "name": "Звезды",
+            "url": "http://gvardeisky.com.ua/53-zvezdy",
+            "parent_name": "Фурнитура",
+            "parent_url": "http://gvardeisky.com.ua/36-furnitura",
+            "parent_id": 9048
+        },
+        {
+            "id": 9052,
+            "name": "Пуговицы",
+            "url": "http://gvardeisky.com.ua/54-pugovicy",
+            "parent_name": "Фурнитура",
+            "parent_url": "http://gvardeisky.com.ua/36-furnitura",
+            "parent_id": 9048
+        },
+        {
+            "id": 9053,
+            "name": "Эмблемы",
+            "url": "http://gvardeisky.com.ua/55-emblemy",
+            "parent_name": "Фурнитура",
+            "parent_url": "http://gvardeisky.com.ua/36-furnitura",
+            "parent_id": 9048
+        },
+        {
+            "id": 9054,
+            "name": "Лычки, буквы",
+            "url": "http://gvardeisky.com.ua/56-lychki-bukvy",
+            "parent_name": "Фурнитура",
+            "parent_url": "http://gvardeisky.com.ua/36-furnitura",
+            "parent_id": 9048
+        },
+        {
+            "id": 9055,
+            "name": "Аксельбанты, позументы",
+            "url": "http://gvardeisky.com.ua/57-akselbanty-pozumenty",
+            "parent_name": "Фурнитура",
+            "parent_url": "http://gvardeisky.com.ua/36-furnitura",
+            "parent_id": 9048
+        },
+        {
+            "id": 9056,
+            "name": "Значки,жетоны, цепочки",
+            "url": "http://gvardeisky.com.ua/60-znachkizhetony-cepochki",
+            "parent_name": "Фурнитура",
+            "parent_url": "http://gvardeisky.com.ua/36-furnitura",
+            "parent_id": 9048
+        },
+        {
+            "id": 9057,
+            "name": "Погоны",
+            "url": "http://gvardeisky.com.ua/61-pogony",
+            "parent_name": "Прочее",
+            "parent_url": "http://gvardeisky.com.ua/58-prochee",
+            "parent_id": 9046
+        },
+        {
+            "id": 9058,
+            "name": "Очки/Маски",
+            "url": "http://gvardeisky.com.ua/69-ochkimaski",
+            "parent_name": "Прочее",
+            "parent_url": "http://gvardeisky.com.ua/58-prochee",
+            "parent_id": 9046
+        },
+        {
+            "id": 9059,
+            "name": "Стрелковые наушники",
+            "url": "http://gvardeisky.com.ua/71-strelkovye-naushniki",
+            "parent_name": "Прочее",
+            "parent_url": "http://gvardeisky.com.ua/58-prochee",
+            "parent_id": 9046
+        },
+        {
+            "id": 9060,
+            "name": "Распродажа",
+            "url": "http://gvardeisky.com.ua/59-rasprodazha",
+            "parent_name": "",
+            "parent_url": "",
+            "parent_id": ""
+        }
+    ]
+}

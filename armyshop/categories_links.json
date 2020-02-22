@@ -1,0 +1,114 @@
+{
+    "categories_links": [
+        {
+            "id": 9002,
+            "name": "Аксельбанты",
+            "url": "http://armyshop.net.ua/katalog/akselbanty/"
+        },
+        {
+            "id": 9003,
+            "name": "Бинокли",
+            "url": "http://armyshop.net.ua/katalog/binokli/"
+        },
+        {
+            "id": 9004,
+            "name": "Бляхи и пряжки к ремням",
+            "url": "http://armyshop.net.ua/katalog/blyakhi-pryazhki-remnyam/"
+        },
+        {
+            "id": 9005,
+            "name": "Вышивка",
+            "url": "http://armyshop.net.ua/katalog/vyshivka/"
+        },
+        {
+            "id": 9006,
+            "name": "Галстуки",
+            "url": "http://armyshop.net.ua/katalog/galstuki/"
+        },
+        {
+            "id": 9007,
+            "name": "Головной убор",
+            "url": "http://armyshop.net.ua/katalog/golovnoy-ubor/"
+        },
+        {
+            "id": 9008,
+            "name": "Жетоны",
+            "url": "http://armyshop.net.ua/katalog/zhetoni/"
+        },
+        {
+            "id": 9009,
+            "name": "Значки",
+            "url": "http://armyshop.net.ua/katalog/znachki/"
+        },
+        {
+            "id": 9010,
+            "name": "Медали",
+            "url": "http://armyshop.net.ua/katalog/medali/"
+        },
+        {
+            "id": 9011,
+            "name": "Обложки и цепи к ним",
+            "url": "http://armyshop.net.ua/katalog/oblogki/"
+        },
+        {
+            "id": 9012,
+            "name": "Обувь",
+            "url": "http://armyshop.net.ua/katalog/obuv/"
+        },
+        {
+            "id": 9013,
+            "name": "Одежда",
+            "url": "http://armyshop.net.ua/katalog/odegda/"
+        },
+        {
+            "id": 9014,
+            "name": "Погоны",
+            "url": "http://armyshop.net.ua/katalog/pogoni/"
+        },
+        {
+            "id": 9015,
+            "name": "Ремни",
+            "url": "http://armyshop.net.ua/katalog/remni/"
+        },
+        {
+            "id": 9016,
+            "name": "Снаряжение",
+            "url": "http://armyshop.net.ua/katalog/snaragenie/"
+        },
+        {
+            "id": 9017,
+            "name": "Сопутствующие товары",
+            "url": "http://armyshop.net.ua/katalog/soput-tovari/"
+        },
+        {
+            "id": 9018,
+            "name": "Сувениры и подарки",
+            "url": "http://armyshop.net.ua/katalog/suveniri-i-podarki/"
+        },
+        {
+            "id": 9019,
+            "name": "Флаги, флажки и наконечники",
+            "url": "http://armyshop.net.ua/katalog/flagi-flagki/"
+        },
+        {
+            "id": 9020,
+            "name": "Фурнитура металлическая",
+            "url": "http://armyshop.net.ua/katalog/furnitura-metall/"
+        },
+        {
+            "id": 9021,
+            "name": "Фурнитура пластиковая",
+            "url": "http://armyshop.net.ua/katalog/furnitura-plastik/"
+        },
+        {
+            "id": 9022,
+            "name": "Шевроны",
+            "url": "http://armyshop.net.ua/katalog/shevroni/"
+        },
+        {
+            "id": 9023,
+            "name": "Эмблемы",
+            "url": "http://armyshop.net.ua/katalog/emblemi/"
+        }
+    ]
+}
